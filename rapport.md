@@ -13,14 +13,17 @@ d’études à Moscou.
 
 # Présentation générale du pays
 
-## La fédération de Russie, un pays multiethnique à l'histoire riche
-
-La Russie est un pays fascinant. En France, on n'en en général parler
+La Russie est un pays fascinant. En France, on n'en entend en général parler
 que dans des articles critiquant la politique de Vladimir Poutine.
 Pourtant, et bien que la politique russe soit un sujet intéressant,
 il y a beaucoup plus à découvrir à propos de ce pays.
 Mon objectif ici sera de donner une vision de la Russie telle
-que je l'ai vécue, en essayant de m’éloigner des 
+que je l'ai vécue, en essayant de m’éloigner des stérétypes et 
+des généralités, et si possible en donnant des informations
+utiles aux étudiants qui seraient tentés par l'expérience
+formidable mais difficile que constitue l'expatriation en Russie.
+
+## La fédération de Russie, un pays multiethnique à l'histoire riche
 
 ## Moscou, l’incroyable capitale-paradoxe
 ## La langue russe, dure mais indispensable
