@@ -1,4 +1,14 @@
 # Quelques mots d'introduction
+Je m'appelle Ophir, et je suis un élève-ingénieur comme les autres.
+
+Sauf que j'ai choisi de faire mes deux dernières années d'études à
+l'étranger non pas dans une université européenne cotée comme la
+plupart de mes camarades, mais en Russie, dans un cursus entièrement
+en russe de l'université technique d'État de Moscou.
+
+Ce rapport relate les particularités, les difficultés et les 
+choses fascinantes que j'ai rencontrés pendant mes deux ans
+d’études à Moscou.
 
 # Présentation générale du pays
 
@@ -30,5 +40,6 @@
 ### L'emploi du temps, une épreuve pour les français
 ### Les examens
 #### Les notes
+### Le mémoire de master
 
 # Conclusion: comment la Russie m'a changé
