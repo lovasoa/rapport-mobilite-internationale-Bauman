@@ -20,8 +20,8 @@ il y a beaucoup plus à découvrir à propos de ce pays.
 Mon objectif ici sera de donner une vision de la Russie telle
 que je l'ai vécue, en essayant de m’éloigner des stérétypes et 
 des généralités, et si possible en donnant des informations
-utiles aux étudiants qui seraient tentés par l'expérience
-formidable mais difficile que constitue l'expatriation en Russie.
+utiles aux étudiants qui seraient tentés par la
+formidable mais difficile expérience que constitue l'expatriation en Russie.
 
 ## La fédération de Russie, un pays multiethnique à l'histoire riche
 
