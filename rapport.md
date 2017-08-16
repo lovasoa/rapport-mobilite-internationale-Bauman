@@ -25,6 +25,11 @@ formidable mais difficile expérience que constitue l'expatriation en Russie.
 
 ## La fédération de Russie, un pays multiethnique à l'histoire riche
 
+### Le pays qui se prenait pour un continent
+Il suffit de regarder une mappemonde pour comprendre la première raison pour laquelle la Russie fascine : c'est tout simplement le plus grand pays du monde. Voisin à la fois de la Pologne et de la Corée du Nord, le pays s'étend sur des milliers de kilomètres, entre l'Europe et l'Asie. Les russes que j'ai rencontrés ne se sentent d'ailleurs ni européens ni asiatiques, et n'hésitent pas à comparer leur pays aux autres continents, et en premier lieu à l'Europe...
+
+En France, l'ensemble du territoire métropolitain est divisé en régions de taille à peu près égales, et qui ont toutes le même statut administratif. En Russie, c'est un peu plus compliqué : il y a dans la Fédération de Russie 22 républiques, qui ont chacune une constitution, une administration propre, et une identité culturelle forte. Mais ces républiques ne couvrent qu'une partie du territoire russe, qui est aussi composé d'oblasts, de kraïs, de districts autonomes et de villes d'importance fédérale.
+
 ## Moscou, l’incroyable capitale-paradoxe
 ## La langue russe, dure mais indispensable
 ## Traditions et mentalité russe, un autre regard sur le monde
