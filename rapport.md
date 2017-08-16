@@ -63,7 +63,79 @@ cultures et différents modes de vie russes. Je pense qu'il aurait été dommage
 sans voir sa moitié asiatique.
 
 ## Moscou, l’incroyable capitale-paradoxe
+Malgré les quelques voyages mentionnés, la seule ville russe que je puisse me vanter de connaître un
+peu est Moscou.
+
+### Se promener
+Si l'on compte la capitale russe comme une ville européenne, alors c'est
+de loin la plus grande et la plus peuplée.
+L'immensité de la ville est sans doute ce que l'on remarque en premier en arrivant.
+Non seulement la ville est grande, mais les bâtiments eux-mêmes sont souvent très imposants,
+les cathédrales gigantesques et certaines rues de la ville - comparables à nos autoroutes.
+
+C'est en partie pour ce dernier point qu'il n'est pas agréable de se promener partout dans Moscou.
+Malgré cette immensité parfois opressante pour quelqu'un habitué au quotidien d’une ville française,
+on peut trouver de nombreux endroits agréables à Moscou.
+Les quartiers les plus agréables sont probablement ceux de l'ultra-centre, où l'on peut trouver certaines
+petites rues bordées de cafés comme en Europe.
+Le quartier de notre université (Bauman) est aussi plutôt agréable, on y trouve de bons petits restaurants
+et une vie animée.
+Sinon, pour se promener, il faut préférer les parcs de
+Moscou (eux aussi gigantesques), comme le parc Gorki ou VDNKh (ВДНХ).
+
+### Se loger dans une ville hors de prix
+L’immobilier à Moscou coûte très cher. Peu d'étudiants peuvent se payer
+leur propre appartement, ou même une collocation
+(pratique peu courante en Russie, d'ailleurs).
+
+Beaucoup d'élèves de l'université de Bauman vivent dans des résidences étudiantes du quartier d’Izmaïlovo,
+à quatre étudiants par chambre, avec douches et toilettes communes pour chaque étage.
+
+Lors de mon arrivée, mes camarades français et moi avons tout d'abord été logés dans le quartier
+d'Altufievo, à une heure en métro de l'université, dans 
+une résidence spéciale pour les étrangers. Cette résidence a un tout petit loyer
+(moins de 3000 roubles par mois), et jouit de conditions plus favorables que celles
+où logent les russes:
+deux par chambre, cuisine et douche communes pour chaque appartement de trois chambres.
+Cette résidence nous a bien dépannés quand nous sommes arrivés, mais 
+les conditions d’hygiènes et son éloignement de l'université comme des autres élèves russes
+me font douter de la pertinence même de son existence...
+
+J'ai donc décidé, une fois que je commençais à parler un peu russe, de chercher un nouveau
+logement. J'ai finalement trouvé une chambre dans une collocation moderne de deux personnes,
+avec une salle de bain et une cuisine correctes, pour 30 000 roubles par mois, dans laquelle
+je suis resté jusqu’à la fin de la première année.
+
+La seconde année, j'ai d'abord vécu dans une autre résidence de l'université, aux conditions
+de vie moyennes, mais toute proche de l'université, et au loyer dérisoire, comme la première.
+La résidence était mixte entre russes
+et étrangers, mais les étrangers étaient quand même tous regroupés au dernier étage.
+
+Je me suis finalement installé avec ma copine dans un tout petit appartement dans un
+"quartier-dortoir" de Moscou, pour 20 000 roubles par mois. 
+
+### Gagner de l'argent
+Moscou est une ville où les salaires sont beaucoup plus élevés que dans le reste de la Russie,
+et les conditions économiques font qu’il n’est pas difficile de trouver de travail, surtout quand on
+est qualifié dans un domaine comme l'informatique.
+
+ Dans mon master, de nombreux élèves travaillaient pour financer leurs études,
+parfois déjà à des postes à responsabilité avec plusieurs années d'expérience. 
+
+J’ai personnelement trouvé un travail de programmeur à mi-temps payé correctement
+(70 000 roubles/mois), et dans un environnement agréable juste à côté de l'université
+ après quelques semaines de recherches, et avec un niveau de russe moyen seulement.
+ J'ai dû demander une autorisation spéciale à l'université pour obtenir le droit
+ de travailler légalement avec mon visa étudiant.
+ 
+Beaucoup d’élèves français préfèrent se tourner vers le tutorat et les cours
+particuliers pour gagner de l'argent. Il y a à Moscou un lycée français, et l'on
+peut donner des cours particuliers en français dans toutes les matières, pour un salaire
+plus élevé qu'en France.
+
 ## La langue russe, dure mais indispensable
+
+
 ## Traditions et mentalité russe, un autre regard sur le monde
 
  * Relation à l'histoire du pays
