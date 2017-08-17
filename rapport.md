@@ -135,6 +135,17 @@ plus élevé qu'en France.
 
 ## La langue russe, dure mais indispensable
 
+Beaucoup de russes, y compris chez les jeunes élèves-ingénieurs, ne parlent que le russe. Ceux qui parlent correctement anglais (ou une autre langue), sont ceux qui pris des cours particuliers ou vécu à l'étranger, le système d'apprentissage des langues à l'école étant plutôt mauvais.
+
+Il est donc absolument indispensable d'apprendre le russe pour poursuivre ses études d'ingénieurs, rencontrer des gens, voyager, et tout simplement se débrouiller dans la vie de tous les jours.
+
+La langue russe n'est pas d'une difficulté insurmontable pour les français, mais elle reste plus éloignée de notre langue que l'allemand, l'anglais, ou l'espagnol, et plus difficile à apprendre. Il faut donc consacrer du temps et de l'énergie à l'apprentissage ou au perfectionnement de son russe dès son arrivée.
+
+Je suis arrivé en Russie avec un très faible niveau de russe. Après six mois de *langues étrangères appliquées* à l'Université de Nantes, et malgré un très bon professeur, je ne connaissais que l'alphabet, quelques mots, et les bases du fonctionnement de la grammaire.
+
+Les premiers mois ont donc été à la fois difficiles et passionnants. L'objectif étant de réussir les premiers examens (ceux de Noël) sans rattrapages, il fallait que je sois rapidement capable de comprendre et répondre à des questions orales en russe sur le contenu des cours.
+
+Pour progresser à l'oral, la meilleure solution est probablement de pratiquer beaucoup, et régulièrement, sans avoir peur de ne pas se faire comprendre, de ne pas comprendre ce que l'on nous dit ou d'avoir l'air ridicule. J'ai donc commencé à parler tous les jours et avec tout le monde, d'abord avec les quelques mots que je connaissais et en foulant aux pieds toutes les règles de grammaire, puis, au fur et à mesure, en essayant d'intégrer les mots et les règles que j'apprenais. Je me suis inscrit sur le site italki où j'ai trouvé des partenaires de langue qui apprenaient le français et étaient prêts à donner des leçons de russe en échange de leçons de français. Je me suis inscrit sur tinder, où j'ai échangé d'abord par écrit, puis lors de rencontres, en russe avec des jeunes filles russes. La sensation de progresser de jour en jour, sans jamais apprendre de leçons ou de tableaux de déclinaison, est très agréable et motivante.
 
 ## Traditions et mentalité russe, un autre regard sur le monde
 
