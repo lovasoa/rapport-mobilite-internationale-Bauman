@@ -248,6 +248,8 @@ La tradition des procédures complexes et parfois inutiles perdure aujourd’hui
 
 Le département international est le seul où l’on trouve des gens qui parlent un peu anglais. Des gens, c'est-à-dire Tatiana et Sofia, les deux responsables qui se sont occuppées de nous les français depuis notre arrivée. Se sont des personnes adorables, et des alliées indispensable lors de notre arrivée en terre inconnue. C'est à elles qu'il faut poser toutes les questions qui concernent l'administration! Et le département international est le seul où les employés parlent un peu anglais.
 
+C'est avec ce département que j'ai été en relation avant mon arrivé, ce sont eux qui gèrent notre acceptation, notre inscription, et notre accueil. Pour l’accueil, venant de Centrale Nantes, je m'attendais à un commité d'accueil proche de celui que l'on réserve en France à nos étudiants étrangers. Que nenni! Le premier jour, nous avons dû trouver nous-même la résidence, et expliquer tant bien que mal notre situation à la gestionnaire qui ne parlait bien sûr que russe.
+
 ### Les méandres du *décanat*
 ### La faculté
 
