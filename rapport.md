@@ -157,7 +157,7 @@ plus élevé qu'en France.
 
 ![Pouchkine, grand poète russe, et l'inscription «русский язык» (langue russe)](images/langue.png)
 
-Beaucoup de russes, y compris chez les jeunes élèves-ingénieurs, ne parlent que le russe. Ceux qui s'expriment correctement en anglais (ou dans une autre langue), sont ceux qui pris des cours particuliers ou ont vécu à l'étranger, le système d'apprentissage des langues à l'école étant plutôt mauvais.
+Beaucoup de russes, y compris chez les jeunes élèves-ingénieurs, ne parlent que le russe. Ceux qui s'expriment correctement en anglais (ou dans une autre langue), sont ceux qui ont pris des cours particuliers ou ont vécu à l'étranger, le système d'apprentissage des langues à l'école étant plutôt mauvais.
 
 Il est donc absolument indispensable d'apprendre le russe pour poursuivre ses études d'ingénieurs, rencontrer des gens, voyager, et tout simplement se débrouiller dans la vie de tous les jours.
 
