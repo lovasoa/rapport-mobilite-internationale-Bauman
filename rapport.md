@@ -181,9 +181,10 @@ Pour ce qui est de l'histoire récente, et notemment l’URSS, les personnes que
 
 Pour finir avec l’histoire la plus récente, les années 90 sont une période noire de l’histoire de la Russie, à laquelle la libéralisation brutale de tous les secteurs de l'économie et la désagrégation du pouvoir de l'état ont laissé la place au chômage, à l'insécurité, à la mafia, à l'appauvrissement brutal de nombreuses personnes et à l'accapparement des richesses du pays par une oligarchie. Cette période est dans toutes les mémoires, et elle explique en partie la popularité du président Poutine, qui symbolise le retour de l'État fort après cette période trouble.
 
-### Vision des relations hommes-femmes
-
- L'amitié
+### Les relations sociales: respect, amour et amitié dans l'esprit de l’*âme russe*
+ Les relations sociales, que ce soit avec des supérieurs, des amis, ou avec son partenaire, sont parfois différentes de nos conventions sociales françaises. Et la sincérité, la dévotion, et le respect de beaucoup de russes est une des choses que j’ai appréciées.
+ 
+Il peut sembler, en arrivant à Moscou, que les russes sont très froids et secs. Et c'est vrai, le plupart du temps, les russes ne se comportent pas en amis avec les gens qu'ils ne connaissent pas. Il y a, me semble-t-il, beaucoup moins de relations superficielles, de personnes à qui l'on parle régulièrement sans être amis. Il y a bien sûr des exceptions, mais les gens ne vont en général pas vous taper dans le dos, vous raconter leur vie ou vous poser des questions personnelles si ils ne sont pas vraiment amis avec vous. Mais au contraire, si l'on réussit à percer cette carapace, les russes ont souvent une âme beaucoup plus chaleureuse, plus généreuse, et plus dévouée que les français que j'ai rencontrés.
 
 ### Racisme, antisémitisme, homophobie, et autres joyeusetés
 La tolérence à tout ce qui s’éloigne de l’homme slave hétérosexuel chrétien est encore
