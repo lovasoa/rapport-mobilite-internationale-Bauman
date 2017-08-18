@@ -165,18 +165,23 @@ nous sommes habitués en Europe occidentale. C'est en partie pour découvrir
 ces différences que j'avais décidé de partir, et il est toujours passionnant de découvrir une autre culture, mais il peut aussi parfois être difficile de s'habituer à ces différences de mentalités...
 Je vais donc ici en lister quelques unes, et si vous entreprenez plus tard le même voyage que moi, vous serez moins surpris.
 
-### Relation à l'histoire du pays
+### Relation à l’histoire tourmentée du pays
 La Russie d’aujourd’hui est toujours profondément marquée par la seconde guerre mondiale.
 L’URSS est le pays qui a payé le plus lourd tribu lors de la seconde guerre, et à Moscou,
 la quasi-totalité des familles compte au moins un grand-père ou un arrière grand-père mort à la guerre.
 Ce souvenir tragique est ainsi inscrit dans toutes les mémoires, et les russes ne tolèrent pas que les occidentaux
 sous-estiment l’importance cruciale de l’URSS dans la victoire contre le nazisme, trouvant même parfois injuste le manque
 de reconnaissance du reste du monde aux soldats russes qui ont donné leur vie pour vaincre l’Allemagne d’Hitler.
-La victoire contre le troisième reich est encore aujourd’hui célébrée tous les ans lors de la fête du *jour de la victoire (день победы)* par de gigantesques cérémonies à travers toute la Russie.
+La victoire contre le troisième reich est encore aujourd’hui célébrée tous les ans lors de la fête du *jour de la victoire (день победы, le 9 mai)* par de gigantesques cérémonies à travers toute la Russie.
 
- * Vision traditionnelle de la famille
- * Vision des relations hommes-femmes
- * L'amitié
+D'autres éléments de l'histoire russe, qui peuvent nous sembler plus importants en Europe, sont au contraire moins présents dans les mémoires, les récits, et l'imaginaire national. C'est par exemple le cas des répressions politiques et des goulags soviétiques, dont on parle beaucoup moins. Le personnage de Staline, par exemple, est vu avant tout comme le vainqueur de la seconde guerre mondiale et la personne qui a délivré le monde du nazisme beaucoup plus que comme un tyran qui a fait envoyer au goulag des centaines de milliers de russes.
+Un autre exemple est a révolution russe, que tous les russes connaissent, bien sûr, mais qui n'est pas du tout célébrée.
+
+Pour ce qui est de l'histoire récente, et notemment l’URSS, les personnes que j’ai pu rencontrer à Moscou qui ont vécu en Union Soviétique en avaient en général des souvenirs positifs, notamment parce que les inégalités se sont beaucoup accrues depuis la chute de l'URSS. Cependant, les idées communistes ne sont pas répandues du tout chez les jeunes, qui ont en général une vision de l'économie proche de la notre. La Russie d’aujourd’hui est d’ailleurs à bien des égards un pays beaucoup plus capitaliste que la France, par exemple, avec des impôts plus faibles, et un plus faible interventionnisme de l'État dans les affaires sociales.
+
+### Vision des relations hommes-femmes
+
+ L'amitié
 
 ### Racisme, antisémitisme, homophobie, et autres joyeusetés
 La tolérence à tout ce qui s’éloigne de l’homme slave hétérosexuel chrétien est encore
