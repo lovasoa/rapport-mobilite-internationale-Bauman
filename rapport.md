@@ -159,11 +159,29 @@ accent français clairement audible, et la littérature ou la poésie russes nou
 
 ## Traditions et mentalité russe, un autre regard sur le monde
 
+La mentalité, les habitudes, et les points de vues des russes sur les affaires
+du monde comme sur la vie de tous les jours sont parfois différents de ce à quoi
+nous sommes habitués en Europe occidentale. C'est en partie pour découvrir
+ces différences que j'avais décidé de partir, et il est toujours passionnant de découvrir une autre culture, mais il peut aussi parfois être difficile de s'habituer à ces différences de mentalités...
+Je vais donc ici en lister quelques unes, et si vous entreprenez plus tard le même voyage que moi, vous serez moins surpris.
+
  * Relation à l'histoire du pays
  * Vision traditionnelle de la famille
  * Vision des relations hommes-femmes
- * l'amitié
- 
+ * L'amitié
+
+#### Racisme, antisémitisme, homophobie, et autres joyeusetés
+La tolérence à tout ce qui s’éloigne de l’homme slave hétérosexuel chrétien est encore
+parfois un problème en Russie aujourd'hui. Les plus jeunes générations sont en général plus
+tolérentes, mais même parmi elles, il peut encore arriver d’entendre des remarques qui risquent d’être choquantes pour un
+euopéen moyen.
+
+Je porte moi-même un prénom juif, et il m'est arrivé plusieurs fois d'entendre des *blagues* pleines
+de préjugés. Jamais personne ne m’a fait ce genre de remarques par méchanceté, ou avec l’objectif de me nuire,
+et je ne pense pas qu'elles ne m'aient jamais empêchées de me faire des amis. Ces remarques témoignent simplement de
+la persistence dans la culture populaire de stéréotypes qui, bien qu'ils soient aussi présents en Europe,
+sont ici moins répendus et plus tabous. 
+
 ## Voyager dans le plus grand pays du monde
 
 # L’administration
