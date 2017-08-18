@@ -147,6 +147,16 @@ Les premiers mois ont donc été à la fois difficiles et passionnants. L'object
 
 Pour progresser à l'oral, la meilleure solution est probablement de pratiquer beaucoup, et régulièrement, sans avoir peur de ne pas se faire comprendre, de ne pas comprendre ce que l'on nous dit ou d'avoir l'air ridicule. J'ai donc commencé à parler tous les jours et avec tout le monde, d'abord avec les quelques mots que je connaissais et en foulant aux pieds toutes les règles de grammaire, puis, au fur et à mesure, en essayant d'intégrer les mots et les règles que j'apprenais. Je me suis inscrit sur le site italki où j'ai trouvé des partenaires de langue qui apprenaient le français et étaient prêts à donner des leçons de russe en échange de leçons de français. Je me suis inscrit sur tinder, où j'ai échangé d'abord par écrit, puis lors de rencontres, en russe avec des jeunes filles russes. La sensation de progresser de jour en jour, sans jamais apprendre de leçons ou de tableaux de déclinaison, est très agréable et motivante.
 
+La professeure de russe que nous avons eue à l'université nous a également beaucoup aidé à intégrer toutes les nouvelles
+règles dont nous avions besoin pour parler, lire, écrire et comprendre. Les cours de russe de l'université se déroulent en tout petits groupes composés d'étrangers de différents pays, et sont donnés intégralement en russe, ce qui aide aussi beaucoup à progressser rapidement. Svetlana, notre professeure, était en plus une personne formidable et chaleureuse, avec laquelle nous avons tissés des liens d'amitiés au cours des deux années de cours que nous avons eus avec elle.
+
+Aujourd'hui, après deux ans de russe, nous sommes tous capables d’avoir une conversation normale en russe,
+d’exprimer un point de vue, de parler de notre domaine d'’études en russe, à l'oral et à l'écrit.
+Nous suivons nos cours et passons nos examens en russes sans grosses difficultés de langue.
+Cependant, notre niveau est toujours loin d'être parfait, nous faisons régulièrement des fautes, avons toujours un
+accent français clairement audible, et la littérature ou la poésie russes nous sont toujours difficiles
+à appréhender.
+
 ## Traditions et mentalité russe, un autre regard sur le monde
 
  * Relation à l'histoire du pays
