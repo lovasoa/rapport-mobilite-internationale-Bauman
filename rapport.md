@@ -179,8 +179,8 @@ européen moyen.
 Je porte moi-même un prénom juif, et il m'est arrivé plusieurs fois d'entendre des *blagues* pleines
 de préjugés. Jamais personne ne m’a fait ce genre de remarques par méchanceté, ou avec l’objectif de me nuire,
 et je ne pense pas qu'elles ne m'aient jamais empêchées de me faire des amis. Ces remarques témoignent simplement de
-la persistence dans la culture populaire de stéréotypes qui, bien qu'ils soient aussi présents en Europe,
-sont ici moins répendus et plus tabous.
+la persistance dans la culture populaire de stéréotypes qui, bien qu'ils soient aussi présents en Europe,
+sont ici moins répandus et plus tabous.
 
 La Russie est le deuxième pays au monde accueillant le plus d’immigrés, et de toutes les villes du pays, c’est
 Moscou qui en compte le plus. La population d’immigrés compte notemment un grand nombre de personnes originaires
@@ -188,6 +188,10 @@ d’Asie centrale (tadjiks, ouzbeks, kirghizes) qui sont en général occuppent 
 difficiles, sont pauvres, et parfois mal considérés du reste de la population. Bien sûr, tous les russes ne sont pas racistes,
 mais il faudra par exemple vous attendre à être contrôlés plus souvent par la police, à avoir plus
 de mal à louer un appartement, et peut-être même à vous faire des amis si vous n’êtes pas blancs de peau.
+Je n'ai par exemple pas subi un seul contrôle d’identité durant tout mon séjour de deux ans, alors qu’une amie, qui est elle russe depuis toujours, mais a un physique asiatique, est contrôlée régulièrement.
+Il faut tout de même nuancer ces observations par le fait que l'université de Bauman accueille de nombreux étudiants étrangers, avec lesquels les étudiants russes s'entendent en général bien, et que je n'ai jamais observé quoi que ce soit qui s'apparenterait à du racisme à l'université.
+
+L'homophobie est je pense le cas d’intolérence le plus présent et le plus fort. L’homosexualité, et en particulier l’homosexualité masculine, est toujours très mal considérée par une majorité, y compris chez les jeunes. Beaucoup de gens considèrent l'homosexualité comme un problème, une maladie, ou un comportement déviant qui devrait si ce n'est disparaître, au moins être caché autant que possible.
 
 ## Voyager dans le plus grand pays du monde
 
