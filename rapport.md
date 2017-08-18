@@ -181,6 +181,8 @@ Pour ce qui est de l'histoire récente, et notemment l’URSS, les personnes que
 
 Pour finir avec l’histoire la plus récente, les années 90 sont une période noire de l’histoire de la Russie, à laquelle la libéralisation brutale de tous les secteurs de l'économie et la désagrégation du pouvoir de l'état ont laissé la place au chômage, à l'insécurité, à la mafia, à l'appauvrissement brutal de nombreuses personnes et à l'accapparement des richesses du pays par une oligarchie. Cette période est dans toutes les mémoires, et elle explique en partie la popularité du président Poutine, qui symbolise le retour de l'État fort après cette période trouble.
 
+Aujourd’hui, le pays est marqué par de très fortes inégalités, et il y a à Moscou aussi des personnes âgées qui mendient, des travailleurs pauvres, des quartiers entiers déshérités, mais aussi des quartiers de villas ultra-sécurisées pour milliardaires, des voitures de luxe dans la rue, des hommes politiques qui possèdent villas de luxe, yachts, et jets privés...
+
 ### Les relations sociales: respect, amour et amitié dans l'esprit de l’*âme russe*
  Les relations sociales, que ce soit avec des supérieurs, des amis, ou avec son partenaire, sont parfois différentes de nos conventions sociales françaises. Et la sincérité, la dévotion, et le respect de beaucoup de russes est une des choses que j’ai appréciées.
  
