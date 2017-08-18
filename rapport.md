@@ -229,7 +229,7 @@ sont ici moins répandus et plus tabous.
 
 La Russie est le deuxième pays au monde accueillant le plus d’immigrés, et de toutes les villes du pays, c’est
 Moscou qui en compte le plus. La population d’immigrés compte notemment un grand nombre de personnes originaires
-d’Asie centrale (tadjiks, ouzbeks, kirghizes) qui sont en général occuppent des métiers physiques dans des conditions
+d’Asie centrale (tadjiks, ouzbeks, kirghizes) qui occuppent en général des métiers physiques dans des conditions
 difficiles, sont pauvres, et parfois mal considérés du reste de la population. Bien sûr, tous les russes ne sont pas racistes,
 mais il faudra par exemple vous attendre à être contrôlés plus souvent par la police, à avoir plus
 de mal à louer un appartement, et peut-être même à vous faire des amis si vous n’êtes pas blancs de peau.
