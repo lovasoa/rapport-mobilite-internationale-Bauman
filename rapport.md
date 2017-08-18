@@ -7,7 +7,7 @@ l'étranger, non pas dans une université européenne cotée comme la
 plupart de mes camarades, mais en Russie, dans un cursus entièrement
 en russe de l'université technique d'État de Moscou.
 
-Ce rapport relate les particularités, les difficultés et les 
+Ce rapport relate les particularités, les difficultés et les
 choses fascinantes que j'ai rencontrés pendant mes deux ans
 d’études à Moscou.
 
@@ -18,7 +18,7 @@ que dans des articles critiquant la politique de Vladimir Poutine.
 Pourtant, et bien que la politique russe soit un sujet intéressant,
 il y a beaucoup plus à découvrir à propos de ce pays.
 Mon objectif ici sera de donner une vision de la Russie telle
-que je l'ai vécue, en essayant de m’éloigner des stérétypes et 
+que je l'ai vécue, en essayant de m’éloigner des stérétypes et
 des généralités, et si possible en donnant des informations
 utiles aux étudiants qui seraient tentés par la
 formidable mais difficile expérience que constitue l'expatriation en Russie.
@@ -26,7 +26,12 @@ formidable mais difficile expérience que constitue l'expatriation en Russie.
 ## La fédération de Russie, un pays multiethnique à l'histoire riche
 
 ### Le pays qui se prenait pour un continent
+
+![On se rend compte de l'immensité de la Russie en la regardant sur un globe. Source: wikimedia](images/Russie_globe.svg)
+
 Il suffit de regarder une mappemonde pour comprendre la première raison pour laquelle la Russie fascine : c'est tout simplement le plus grand pays du monde. Voisin à la fois de la Pologne et de la Corée du Nord, le pays s'étend sur des milliers de kilomètres, entre l'Europe et l'Asie. Les russes que j'ai rencontrés ne se sentent d'ailleurs ni européens ni asiatiques, et n'hésitent pas à comparer leur pays aux autres continents, et en premier lieu à l'Europe...
+
+![La formidable diversité de la Russie est représentée par tous ses sujets, de différentes natures, dont on voit ici les drapeaux. Source: wikimedia commons](images/flags.png)
 
 En France, l'ensemble du territoire métropolitain est divisé en régions de taille à peu près égales, et qui ont toutes le même statut administratif. En Russie, c'est un peu plus compliqué : il y a dans la Fédération de Russie 22 républiques, qui ont chacune une constitution, une administration propre, et une identité culturelle forte. Mais ces républiques ne couvrent qu'une partie du territoire russe, qui est aussi composé d'*oblasts*, de *kraïs*, de *districts autonomes* et de *villes d'importance fédérale* (Moscou, Saint-Pétersbourg et Sébastopol).
 
@@ -38,6 +43,7 @@ que je recommande à tous ceux qui viendraient étudier à Moscou.
 J'ai personnellement fait quatre véritables voyages en Russie:
 
 #### Crimée
+![Panorama pris en Crimée](images/panorama_Crimée.jpg)
 J'ai été en Crimée, hébergé gratuitement dans un des centres de vacances de l'université. Ce fut
  l'occasion de rencontrer en dehors d'un cadre universitaire d’autres étudiants, y compris
  des plus jeunes que l'on a moins l'occasion de fréquenter à l'université, et de parler avec des
@@ -46,18 +52,25 @@ Les paysages du long de la côte sont magnifiques, avec de grandes montagnes qui
 dans la mer noire.
 
 #### Kazan
+![Mosquée de Kazan](images/Mosquée_Kazan.jpg)
+
 Une ville magnifique, capitale de la république du Tatarstan.
 Il y a dans le kremlin de Kazan une mosquée gigantesque, verte et blanche, très moderne et magnifique.
 
 #### Saint-Pétersbourg
+
+![Photo de vacance à Saint-Pétersbourg](images/Saint-Pétersbourg.jpg)
+
 Probablement la plus européenne des villes russes que j'ai visitées. Les bâtiments y sont
 moins imposants qu'à Moscou, et les canaux donnent une atmosphère très agréable à la ville.
 
 #### Le transsibérien
+![Notre itinéraire. Source: Yandex maps](images/transsibérien.png)
+
 Juste après avoir défendu mon mémoire de master, je suis parti pour une traversée de la Russie en train,
 jusqu'en Mongolie. Nous sommes partis en couchsurfing, et avons visité Oufa, Novosibirsk,
 Irkoutsk, Oulan Bator (en Mongolie) et Oulan Oudé. Ce rapport n’a pas vocation à être un guide touristique,
-et je ne raconterai donc pas ici ce voyage en détails, mais il a vraiment constitué une expérience 
+et je ne raconterai donc pas ici ce voyage en détails, mais il a vraiment constitué une expérience
 inoubliable, l'occasion de rencontrer des gens très différents, de voyager à travers différentes
 cultures et différents modes de vie russes. Je pense qu'il aurait été dommage de visiter la Russie
 sans voir sa moitié asiatique.
@@ -67,6 +80,9 @@ Malgré les quelques voyages mentionnés, la seule ville russe que je puisse me 
 peu est Moscou.
 
 ### Se promener
+
+![Le kremlin, la Moskova, et la cathédrale du christ sauveur](images/kremlin.jpg)
+
 Si l'on compte la capitale russe comme une ville européenne, alors c'est
 de loin la plus grande et la plus peuplée.
 L'immensité de la ville est sans doute ce que l'on remarque en premier en arrivant.
@@ -91,13 +107,15 @@ leur propre appartement, ou même une collocation
 Beaucoup d'élèves de l'université de Bauman vivent dans des résidences étudiantes du quartier d’Izmaïlovo,
 à quatre étudiants par chambre, avec douches et toilettes communes pour chaque étage.
 
+![Moi, posant fièrement devant ma première résidence étudiante, en janvier 2016](images/Altufyevo.jpg)
+
 Lors de mon arrivée, mes camarades français et moi avons tout d'abord été logés dans le quartier
-d'Altufievo, à une heure en métro de l'université, dans 
+d'Altufievo, à une heure en métro de l'université, dans
 une résidence spéciale pour les étrangers. Cette résidence a un tout petit loyer
 (moins de 3000 roubles par mois), et jouit de conditions plus favorables que celles
 où logent les russes:
 deux par chambre, cuisine et douche communes pour chaque appartement de trois chambres.
-Cette résidence nous a bien dépannés quand nous sommes arrivés, mais 
+Cette résidence nous a bien dépannés quand nous sommes arrivés, mais
 les conditions d’hygiènes et son éloignement de l'université comme des autres élèves russes
 me font douter de la pertinence même de son existence...
 
@@ -112,7 +130,7 @@ La résidence était mixte entre russes
 et étrangers, mais les étrangers étaient quand même tous regroupés au dernier étage.
 
 Je me suis finalement installé avec ma copine dans un tout petit appartement dans un
-"quartier-dortoir" de Moscou, pour 20 000 roubles par mois. 
+"quartier-dortoir" de Moscou, pour 20 000 roubles par mois.
 
 ### Gagner de l'argent
 Moscou est une ville où les salaires sont beaucoup plus élevés que dans le reste de la Russie,
@@ -120,14 +138,14 @@ et les conditions économiques font qu’il n’est pas difficile de trouver de 
 est qualifié dans un domaine comme l'informatique.
 
  Dans mon master, de nombreux élèves travaillaient pour financer leurs études,
-parfois déjà à des postes à responsabilité avec plusieurs années d'expérience. 
+parfois déjà à des postes à responsabilité avec plusieurs années d'expérience.
 
 J’ai personnelement trouvé un travail de programmeur à mi-temps payé correctement
 (70 000 roubles/mois), et dans un environnement agréable juste à côté de l'université
  après quelques semaines de recherches, et avec un niveau de russe moyen seulement.
  J'ai dû demander une autorisation spéciale à l'université pour obtenir le droit
  de travailler légalement avec mon visa étudiant.
- 
+
 Beaucoup d’élèves français préfèrent se tourner vers le tutorat et les cours
 particuliers pour gagner de l'argent. Il y a à Moscou un lycée français, et l'on
 peut donner des cours particuliers en français dans toutes les matières, pour un salaire
@@ -174,6 +192,8 @@ sous-estiment l’importance cruciale de l’URSS dans la victoire contre le naz
 de reconnaissance du reste du monde aux soldats russes qui ont donné leur vie pour vaincre l’Allemagne d’Hitler.
 La victoire contre le troisième reich est encore aujourd’hui célébrée tous les ans lors de la fête du *jour de la victoire (день победы, le 9 mai)* par de gigantesques cérémonies à travers toute la Russie.
 
+![Participation au «bataillon immortel», gigantesque manifestation de commémoration le 9 mai 2017 sur la place rouge. Le ruban orange et noir symbolise la victoire contre le nazisme. Tous les russes portent une photographie d’un parent mort durant la guerre.](images/9mai.jpg)
+
 D'autres éléments de l'histoire russe, qui peuvent nous sembler plus importants en Europe, sont au contraire moins présents dans les mémoires, les récits, et l'imaginaire national. C'est par exemple le cas des répressions politiques et des goulags soviétiques, dont on parle beaucoup moins. Le personnage de Staline, par exemple, est vu avant tout comme le vainqueur de la seconde guerre mondiale et la personne qui a délivré le monde du nazisme beaucoup plus que comme un tyran qui a fait envoyer au goulag des centaines de milliers de russes.
 Un autre exemple est a révolution russe, que tous les russes connaissent, bien sûr, mais qui n'est pas du tout célébrée.
 
@@ -185,8 +205,10 @@ Aujourd’hui, le pays est marqué par de très fortes inégalités, et il y a �
 
 ### Les relations sociales: respect, amour et amitié dans l'esprit de l’*âme russe*
  Les relations sociales, que ce soit avec des supérieurs, des amis, ou avec son partenaire, sont parfois différentes de nos conventions sociales françaises. Et la sincérité, la dévotion, et le respect de beaucoup de russes est une des choses que j’ai appréciées.
- 
+
 Il peut sembler, en arrivant à Moscou, que les russes sont très froids et secs. Et c'est vrai, le plupart du temps, les russes ne se comportent pas en amis avec les gens qu'ils ne connaissent pas. Il y a, me semble-t-il, beaucoup moins de relations superficielles, de personnes à qui l'on parle régulièrement sans être amis. Il y a bien sûr des exceptions, mais les gens ne vont en général pas vous taper dans le dos, vous raconter leur vie ou vous poser des questions personnelles si ils ne sont pas vraiment amis avec vous. Mais au contraire, si l'on réussit à percer cette carapace, les russes ont souvent une âme beaucoup plus chaleureuse, plus généreuse, et plus dévouée que les français que j'ai rencontrés.
+
+![Ma copine russe et moi](images/amour.jpg)
 
 La vision des relations entre hommes et femmes est elle plus traditionnelle que ce à quoi l’on peut être habitué en France. Ainsi, la galanterie est très importante: il est bien vu de laisser sa place aux femmes dans le métro, qu'elles soient plus âgées ou non,   on offre régulièrement des fleurs aux femmes qui nous sont chères, et lors d’un rendez-vous galant, il ne faut pas envisager de partager l'addition si l'on est un homme. La journée internationale de la femme est beaucoup plus importante en Russie qu’en France, et on la souhaite à toutes les femmes de son entourage, en offrant des fleurs et des cadeaux. De manière générale, les hommes se doivent de faire attention au bien-être des femmes qui les entourent. Mais ce respect dû aux femmes vient avec une vision traditionnelle et parfois machiste du rôle des femmes. Une amie russe m'a ainsi déjà raconté avoir été l'objet de remarques sexistes d’un professeur âgé à l'université, et beaucoup d’hommes en couple considèrent naturel que l'on prépare à manger pour eux. Au sein du couple, les relations sont souvent pleines de passion et de revirements, et le divorce est courant et pas plus mal considéré qu'en France, il me semble.
 
@@ -239,5 +261,6 @@ L'homophobie est je pense le cas d’intolérence le plus présent et le plus fo
 ### Les examens
 #### Les notes
 ### Le mémoire de master
+![Le protagoniste principal de cette aventure avec mémore de master, juste après l'avoir brillament défendu.](images/diplome.jpg)
 
 # Conclusion: comment la Russie m'a changé
