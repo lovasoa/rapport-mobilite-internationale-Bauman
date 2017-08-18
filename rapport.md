@@ -170,17 +170,24 @@ Je vais donc ici en lister quelques unes, et si vous entreprenez plus tard le m�
  * Vision des relations hommes-femmes
  * L'amitié
 
-#### Racisme, antisémitisme, homophobie, et autres joyeusetés
+### Racisme, antisémitisme, homophobie, et autres joyeusetés
 La tolérence à tout ce qui s’éloigne de l’homme slave hétérosexuel chrétien est encore
 parfois un problème en Russie aujourd'hui. Les plus jeunes générations sont en général plus
 tolérentes, mais même parmi elles, il peut encore arriver d’entendre des remarques qui risquent d’être choquantes pour un
-euopéen moyen.
+européen moyen.
 
 Je porte moi-même un prénom juif, et il m'est arrivé plusieurs fois d'entendre des *blagues* pleines
 de préjugés. Jamais personne ne m’a fait ce genre de remarques par méchanceté, ou avec l’objectif de me nuire,
 et je ne pense pas qu'elles ne m'aient jamais empêchées de me faire des amis. Ces remarques témoignent simplement de
 la persistence dans la culture populaire de stéréotypes qui, bien qu'ils soient aussi présents en Europe,
-sont ici moins répendus et plus tabous. 
+sont ici moins répendus et plus tabous.
+
+La Russie est le deuxième pays au monde accueillant le plus d’immigrés, et de toutes les villes du pays, c’est
+Moscou qui en compte le plus. La population d’immigrés compte notemment un grand nombre de personnes originaires
+d’Asie centrale (tadjiks, ouzbeks, kirghizes) qui sont en général occuppent des métiers physiques dans des conditions
+difficiles, sont pauvres, et parfois mal considérés du reste de la population. Bien sûr, tous les russes ne sont pas racistes,
+mais il faudra par exemple vous attendre à être contrôlés plus souvent par la police, à avoir plus
+de mal à louer un appartement, et peut-être même à vous faire des amis si vous n’êtes pas blancs de peau.
 
 ## Voyager dans le plus grand pays du monde
 
