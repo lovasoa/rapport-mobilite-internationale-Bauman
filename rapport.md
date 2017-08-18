@@ -216,8 +216,6 @@ Il faut tout de même nuancer ces observations par le fait que l'université de 
 
 L'homophobie est je pense le cas d’intolérence le plus présent et le plus fort. L’homosexualité, souvent appelée en Russie appelée *orientation sexuelle non-traditionnelle*, et en particulier l’homosexualité masculine, est toujours très mal considérée par une majorité, y compris chez les jeunes. Beaucoup de gens considèrent l'homosexualité comme un problème, une maladie, ou un comportement déviant qui devrait si ce n'est disparaître, au moins être caché autant que possible.
 
-## Voyager dans le plus grand pays du monde
-
 # L’administration
 
 ## L’administration à l'université: tout est difficile, mais tout est possible
