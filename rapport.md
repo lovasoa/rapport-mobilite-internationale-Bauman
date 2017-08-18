@@ -153,7 +153,11 @@ plus élevé qu'en France.
 
 ## La langue russe, dure mais indispensable
 
-Beaucoup de russes, y compris chez les jeunes élèves-ingénieurs, ne parlent que le russe. Ceux qui parlent correctement anglais (ou une autre langue), sont ceux qui pris des cours particuliers ou vécu à l'étranger, le système d'apprentissage des langues à l'école étant plutôt mauvais.
+*Guerre et paix*, *Anna Karénine*, *L'Idiot*, *Lolita*: la langue russe est celle de certains des plus grand chefs d’œuvres de la littérature mondiale. C'est aussi une clef essentielle sans laquelle on ne peut aller vraiment à la rencontre de la culture russe moderne. Et enfin, c'est une *lingua franca* sur tout le territoire de l'ex-URSS, de Riga à Vladivostok, d’Erevan à Saint-Pétersbourg.
+
+![Pouchkine, grand poète russe, et l'inscription «русский язык» (langue russe)](images/langue.png)
+
+Beaucoup de russes, y compris chez les jeunes élèves-ingénieurs, ne parlent que le russe. Ceux qui s'expriment correctement en anglais (ou dans une autre langue), sont ceux qui pris des cours particuliers ou ont vécu à l'étranger, le système d'apprentissage des langues à l'école étant plutôt mauvais.
 
 Il est donc absolument indispensable d'apprendre le russe pour poursuivre ses études d'ingénieurs, rencontrer des gens, voyager, et tout simplement se débrouiller dans la vie de tous les jours.
 
