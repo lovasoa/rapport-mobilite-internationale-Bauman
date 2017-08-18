@@ -239,9 +239,15 @@ Il faut tout de même nuancer ces observations par le fait que l'université de 
 L'homophobie est je pense le cas d’intolérence le plus présent et le plus fort. L’homosexualité, souvent appelée en Russie appelée *orientation sexuelle non-traditionnelle*, et en particulier l’homosexualité masculine, est toujours très mal considérée par une majorité, y compris chez les jeunes. Beaucoup de gens considèrent l'homosexualité comme un problème, une maladie, ou un comportement déviant qui devrait si ce n'est disparaître, au moins être caché autant que possible.
 
 # L’administration
+La Russie a, depuis l'époque tsariste, un goût prononcé pour l'administration, les procédures complexes mais standardisées, et les multiples signatures à récolter sur les papiers officiels.
 
 ## L’administration à l'université: tout est difficile, mais tout est possible
+La tradition des procédures complexes et parfois inutiles perdure aujourd’hui, et on la retrouve bien sûr dans les formalités administratives de l'université. J’ai par exemple reçu un papier avec onze cases correspondant à onze départements de l'université après avoir défendu mon master: il fallait obtenir une signature dans chacune des cases pour recevoir mon diplôme. Mais tout le paradoxe se trouve dans le fait que malgré que presque tout soit standardisé, il est souvent possible de négocier, et en s’adressant poliment et gentiment aux bonnes personnes, on finit en général par obtenir tout ce que l’on veut.
+
 ### Premier contact: le département international
+
+Le département international est le seul où l’on trouve des gens qui parlent un peu anglais. Des gens, c'est-à-dire Tatiana et Sofia, les deux responsables qui se sont occuppées de nous les français depuis notre arrivée. Se sont des personnes adorables, et des alliées indispensable lors de notre arrivée en terre inconnue. C'est à elles qu'il faut poser toutes les questions qui concernent l'administration! Et le département international est le seul où les employés parlent un peu anglais.
+
 ### Les méandres du *décanat*
 ### La faculté
 
