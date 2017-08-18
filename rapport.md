@@ -258,9 +258,16 @@ L'homophobie est je pense le cas d’intolérence le plus présent et le plus fo
 
 ## Déroulement de l'année
 ### L'emploi du temps, une épreuve pour les français
+
+![Mon emploi du temps du premier semestre de seconde année de master](images/emploi_du_temps.svg)
+
 ### Les examens
 #### Les notes
 ### Le mémoire de master
 ![Le protagoniste principal de cette aventure avec mémore de master, juste après l'avoir brillament défendu.](images/diplome.jpg)
 
 # Conclusion: comment la Russie m'a changé
+
+# Annexe
+### Fiche de renseignement pays
+![Fiche établissement](images/fiche_établissement.pdf)
