@@ -232,7 +232,7 @@ Moscou qui en compte le plus. La population d’immigrés compte notemment un gr
 d’Asie centrale (tadjiks, ouzbeks, kirghizes) qui occuppent en général des métiers physiques dans des conditions
 difficiles, sont pauvres, et parfois mal considérés du reste de la population. Bien sûr, tous les russes ne sont pas racistes,
 mais il faudra par exemple vous attendre à être contrôlés plus souvent par la police, à avoir plus
-de mal à louer un appartement, et peut-être même à vous faire des amis si vous n’êtes pas blancs de peau.
+de mal à louer un appartement, et peut-être même à vous faire des amis si vous n’êtes pas blanc de peau.
 Je n'ai par exemple pas subi un seul contrôle d’identité durant tout mon séjour de deux ans, alors qu’une amie, qui est elle russe depuis toujours, mais a un physique asiatique, est contrôlée régulièrement.
 Il faut tout de même nuancer ces observations par le fait que l'université de Bauman accueille de nombreux étudiants étrangers, avec lesquels les étudiants russes s'entendent en général bien, et que je n'ai jamais observé quoi que ce soit qui s'apparenterait à du racisme à l'université.
 
