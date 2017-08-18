@@ -165,7 +165,15 @@ nous sommes habitués en Europe occidentale. C'est en partie pour découvrir
 ces différences que j'avais décidé de partir, et il est toujours passionnant de découvrir une autre culture, mais il peut aussi parfois être difficile de s'habituer à ces différences de mentalités...
 Je vais donc ici en lister quelques unes, et si vous entreprenez plus tard le même voyage que moi, vous serez moins surpris.
 
- * Relation à l'histoire du pays
+### Relation à l'histoire du pays
+La Russie d’aujourd’hui est toujours profondément marquée par la seconde guerre mondiale.
+L’URSS est le pays qui a payé le plus lourd tribu lors de la seconde guerre, et à Moscou,
+la quasi-totalité des familles compte au moins un grand-père ou un arrière grand-père mort à la guerre.
+Ce souvenir tragique est ainsi inscrit dans toutes les mémoires, et les russes ne tolèrent pas que les occidentaux
+sous-estiment l’importance cruciale de l’URSS dans la victoire contre le nazisme, trouvant même parfois injuste le manque
+de reconnaissance du reste du monde aux soldats russes qui ont donné leur vie pour vaincre l’Allemagne d’Hitler.
+La victoire contre le troisième reich est encore aujourd’hui célébrée tous les ans lors de la fête du *jour de la victoire (день победы)* par de gigantesques cérémonies à travers toute la Russie.
+
  * Vision traditionnelle de la famille
  * Vision des relations hommes-femmes
  * L'amitié
