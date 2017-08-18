@@ -240,6 +240,8 @@ de mal à louer un appartement, et peut-être même à vous faire des amis si vo
 Je n'ai par exemple pas subi un seul contrôle d’identité durant tout mon séjour de deux ans, alors qu’une amie, qui est elle russe depuis toujours, mais a un physique asiatique, est contrôlée régulièrement.
 Il faut tout de même nuancer ces observations par le fait que l'université de Bauman accueille de nombreux étudiants étrangers, avec lesquels les étudiants russes s'entendent en général bien, et que je n'ai jamais observé quoi que ce soit qui s'apparenterait à du racisme à l'université.
 
+![Photomontage ayant été mis sur la «liste de documents extrémistes» du ministère de la justice russe](images/putin-gay.jpg)
+
 L'homophobie est je pense le cas d’intolérence le plus présent et le plus fort. L’homosexualité, souvent appelée en Russie appelée *orientation sexuelle non-traditionnelle*, et en particulier l’homosexualité masculine, est toujours très mal considérée par une majorité, y compris chez les jeunes. Beaucoup de gens considèrent l'homosexualité comme un problème, une maladie, ou un comportement déviant qui devrait si ce n'est disparaître, au moins être caché autant que possible.
 
 # L’administration
