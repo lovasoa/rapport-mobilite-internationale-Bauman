@@ -210,7 +210,7 @@ Aujourd’hui, le pays est marqué par de très fortes inégalités, et il y a �
 ### Les relations sociales: respect, amour et amitié dans l'esprit de l’*âme russe*
  Les relations sociales, que ce soit avec des supérieurs, des amis, ou avec son partenaire, sont parfois différentes de nos conventions sociales françaises. Et la sincérité, la dévotion, et le respect de beaucoup de russes est une des choses que j’ai appréciées.
 
-Il peut sembler, en arrivant à Moscou, que les russes sont très froids et secs. Et c'est vrai, le plupart du temps, les russes ne se comportent pas en amis avec les gens qu'ils ne connaissent pas. Il y a, me semble-t-il, beaucoup moins de relations superficielles, de personnes à qui l'on parle régulièrement sans être amis. Il y a bien sûr des exceptions, mais les gens ne vont en général pas vous taper dans le dos, vous raconter leur vie ou vous poser des questions personnelles si ils ne sont pas vraiment amis avec vous. Mais au contraire, si l'on réussit à percer cette carapace, les russes ont souvent une âme beaucoup plus chaleureuse, plus généreuse, et plus dévouée que les français que j'ai rencontrés.
+Il peut sembler, en arrivant à Moscou, que les russes sont très froids et secs. Et c'est vrai, le plupart du temps, les russes ne se comportent pas en amis avec les gens qu'ils ne connaissent pas. Il y a, me semble-t-il, beaucoup moins de relations superficielles, de personnes à qui l'on parle régulièrement sans être amis. Il y a bien sûr des exceptions, mais les gens ne vont en général pas vous taper dans le dos, vous raconter leur vie ou vous poser des questions personnelles si ils ne sont pas vraiment amis avec vous. Mais au contraire, si l'on réussit à percer cette carapace, les russes ont souvent une âme beaucoup plus chaleureuse, plus généreuse, et plus dévouée que les français que j'ai rencontrés. Tous les russes que j'ai rencontrés appellent tous leurs amis au téléphone très régulièrement, ne répondent jamais «je suis occuppé» quand un ami veut les voir, ne s’écrivent pas juste «joyeux anniversaire», mais de longs messages d’anniversaire personnalisés, et bien sûr boivent de la vodka ensemble régulièrement.
 
 ![Ma copine russe et moi](images/amour.jpg)
 
@@ -274,6 +274,9 @@ Encore une fois, il est presque toujours possible de s'arranger en étant gentil
 
 ## L'administration de l'État, parce qu'on ne rigole pas avec la loi
 ### Le visa
+
+Les règles d’immigration russes sont elles (bien sûr) strictes et non négociables. Il faut notamment obligatoirement pour obtenir un premier visa
+
 ### L'enregistrement, pour ceux dont la tête ne plaît pas à la police
 
 # Les études
