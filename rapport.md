@@ -293,6 +293,8 @@ L'université a également plus de moyens que la plupart de ses consœurs russes
 
 ## Ma faculté: l'informatique d'aujourd'hui, mais avec un léger parfum soviétique
 
+J'ai étudié dans la faculté IU (ИУ), dans la chaire IU5 (ИУ5): Systèmes de contrôle et traitement de l'information.
+
 ## Déroulement de l'année
 ### L'emploi du temps, une épreuve pour les français
 
