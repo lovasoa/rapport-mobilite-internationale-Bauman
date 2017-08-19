@@ -305,7 +305,7 @@ J'ai étudié dans la faculté IU (ИУ), dans la chaire IU5 (ИУ5): Systèmes 
 ### Les examens
 #### Les notes
 ### Le mémoire de master
-![Le protagoniste principal de cette aventure avec mémore de master, juste après l'avoir brillament défendu.](images/diplome.jpg)
+![Le protagoniste principal de cette aventure avec son mémoire de master, juste après l'avoir brillament défendu.](images/diplome.jpg)
 
 # Conclusion: comment la Russie m'a changé
 
