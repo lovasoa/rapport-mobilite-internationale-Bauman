@@ -265,7 +265,12 @@ Mais, comme souvent avec l'administration russe, en étant poli et de bonne volo
 
 Cependant, si je pouvais donner un conseil aux futurs élèves étrangers dans ma faculté, ce serait d’aller au moins une fois par semestre au décanat pour vérifier que son dossier est en ordre.
 
-### La faculté
+### Faculté, chaire
+La faculté est une entité de l'université regroupant tous les enseignements liés à une thématique générale (mathématique, physique, informatique). Chaque faculté est divisée en chaires qui correspondent chacune à un domaine précis de la thématique. Chaque nouvelle génération d'étudiants dans une chaire constitue un groupe d'élèves qui se connaissent entre eux, vont en cours magistraux ensemble, et s'entraident. La chaire est elle-même divisée en groupes d'étudiants, qui vont en travaux dirigés ensemble.
+
+Le directeur de la chaire est normalement la personne qui a accepté le dossier de l’étudiant étranger, et veille de plus ou moins loin à sa réussite. L'aide aux étudiants étrangers ne rentre directement dans les obligations d'aucun des membres de la chaire (directeur, professeurs, secrétaires), et il faut donc demander explicitement de l'aide pour en obtenir. Il est très courant, surtout au début, avec un faible niveau de russe, de ne pas faire des devoirs ou de manquer des cours simplement parce que l'on n'a pas compris ce qu'il fallait faire. Il ne faut donc pas hésiter à son arrivée à aller voir les professeurs à la fin des cours pour expliquer sa situation d’élève étranger ne comprenant pas très bien le russe: ils sont en règle générale très compréhensifs.
+
+Encore une fois, il est presque toujours possible de s'arranger en étant gentil et poli: aucun devoir non fait, aucun cours manqué, et même aucun examen raté n'est éliminatoire! Il suffit en général d'expliquer sa situation de bonne fois et avec diplomatie pour trouver un compromis, parfois sous forme de rattrappage, parfois simplement en validant une matière sans avoir tous les prérequis.
 
 ## L'administration de l'État, parce qu'on ne rigole pas avec la loi
 ### Le visa
