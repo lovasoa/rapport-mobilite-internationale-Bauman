@@ -27,7 +27,7 @@ formidable mais difficile expérience que constitue l'expatriation en Russie.
 
 ### Le pays qui se prenait pour un continent
 
-![On se rend compte de l'immensité de la Russie en la regardant sur un globe. Source: wikimedia](images/Russie_globe.svg)
+![On se rend compte de l'immensité de la Russie en la regardant sur un globe. Source: wikimedia](images/Russie_globe.pdf)
 
 Il suffit de regarder une mappemonde pour comprendre la première raison pour laquelle la Russie fascine : c'est tout simplement le plus grand pays du monde. Voisin à la fois de la Pologne et de la Corée du Nord, le pays s'étend sur des milliers de kilomètres, entre l'Europe et l'Asie. Les russes que j'ai rencontrés ne se sentent d'ailleurs ni européens ni asiatiques, et n'hésitent pas à comparer leur pays aux autres continents, et en premier lieu à l'Europe...
 
@@ -44,7 +44,7 @@ J'ai personnellement fait quatre véritables voyages en Russie:
 
 #### Crimée
 
-![Panorama pris en Crimée](images/panorama_Crimée.jpg)
+![Panorama pris en Crimée](images/panorama_Crimee.jpg)
 
 J'ai été en Crimée, hébergé gratuitement dans un des centres de vacances de l'université. Ce fut
  l'occasion de rencontrer en dehors d'un cadre universitaire d’autres étudiants, y compris
@@ -54,20 +54,20 @@ Les paysages du long de la côte sont magnifiques, avec de grandes montagnes qui
 dans la mer noire.
 
 #### Kazan
-![Mosquée de Kazan](images/Mosquée_Kazan.jpg)
+![Mosquée de Kazan](images/Mosquee_Kazan.jpg)
 
 Une ville magnifique, capitale de la république du Tatarstan.
 Il y a dans le kremlin de Kazan une mosquée gigantesque, verte et blanche, très moderne et magnifique.
 
 #### Saint-Pétersbourg
 
-![Photo de vacance à Saint-Pétersbourg](images/Saint-Pétersbourg.jpg)
+![Photo de vacance à Saint-Pétersbourg](images/Saint-Petersbourg.jpg)
 
 Probablement la plus européenne des villes russes que j'ai visitées. Les bâtiments y sont
 moins imposants qu'à Moscou, et les canaux donnent une atmosphère très agréable à la ville.
 
 #### Le transsibérien
-![Notre itinéraire. Source: Yandex maps](images/transsibérien.png)
+![Notre itinéraire. Source: Yandex maps](images/transsiberien.png)
 
 Juste après avoir défendu mon mémoire de master, je suis parti pour une traversée de la Russie en train,
 jusqu'en Mongolie. Nous sommes partis en couchsurfing, et avons visité Oufa, Novosibirsk,
@@ -300,7 +300,7 @@ J'ai étudié dans la faculté IU (ИУ), dans la chaire IU5 (ИУ5): Systèmes 
 ## Déroulement de l'année
 ### L'emploi du temps, une épreuve pour les français
 
-![Mon emploi du temps du premier semestre de seconde année de master](images/emploi_du_temps.svg)
+![Mon emploi du temps du premier semestre de seconde année de master](images/emploi_du_temps.pdf)
 
 ### Les examens
 #### Les notes
@@ -311,4 +311,4 @@ J'ai étudié dans la faculté IU (ИУ), dans la chaire IU5 (ИУ5): Systèmes 
 
 # Annexe
 ### Fiche de renseignement pays
-![Fiche établissement](images/fiche_établissement.pdf)
+![Fiche établissement](images/fiche_etablissement.pdf)
