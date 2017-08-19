@@ -278,6 +278,7 @@ Encore une fois, il est presque toujours possible de s'arranger en étant gentil
 Les règles d’immigration russes sont elles (bien sûr) strictes et non négociables. Il faut notamment obligatoirement pour obtenir un premier visa un test VIH négatif et une assurance privée. Ce sont des formalités embêtantes (et qui peuvent être chères) à faire avant de partir. Par contre, une fois sur place, c'est l'université qui s'occuppe de prolonger le visa lorsqu'il arrive à échéance. C'est à ce moment-là beaucoup plus simple: il suffit de donner son passeport au département international, et on obtient son nouveau visa en quelques semaines.
 
 ### L'enregistrement, pour ceux dont la tête ne plaît pas à la police
+La loi de la fédération de Russie oblige tous les étrangers restant plus d’une semaine à communiquer aux autorités son lieu d’habitation. Cette procédure s’appelle *l'enregistrement (регистрация)*. Elle est effectuée par l'université pour les étudiants en résidence universitaire, mais les autres doivent le faire par eux-mêmes. Cette carte d'enregistrement peut être demandée lorsque l’on se fait arrêter dans la rue. Cependant, comme je l’ai expliqué plus haut, il est rare pour un blanc de subir un contrôle d’identité dans la rue ou dans le métro.
 
 # Les études
 
