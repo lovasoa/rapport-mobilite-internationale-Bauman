@@ -256,7 +256,15 @@ Le département international est le seul où l’on trouve des gens qui parlent
 
 C'est avec ce département que j'ai été en relation avant mon arrivé, ce sont eux qui gèrent notre acceptation, notre inscription, et notre accueil. Pour l’accueil, venant de Centrale Nantes, je m'attendais à un commité d'accueil proche de celui que l'on réserve en France à nos étudiants étrangers. Que nenni! Le premier jour, nous avons dû trouver nous-même la résidence, et expliquer tant bien que mal notre situation à la gestionnaire qui ne parlait bien sûr que russe.
 
+Par contre, pour les formalités administratives, le département international peut vraiment aider. Ce sont eux qui nous indiquent comment refaire nos visas, payer la résidence étudiante, et obtenir une carte étudiante, par exemple.
+
 ### Les méandres du *décanat*
+Le décanat (деканат) est le bureau dans lequel sont gérés les dossiers étudiants. Il dépend de la faculté à laquelle on est inscrit. C'est à cet endroit que toutes nos notes sont conservés, et c'est ce même décanat qui émet les diplômes. Malheureusement, le fonctionnement du décanat est obscur pour les nouveaux arrivants. Et inversement, le fonctionnement des doubles-diplômes leur est probablement aussi obscur. Ainsi, durant mes deux années d’études, je n'ai jamais été inscrit dans le système informatique de l'université, et le décanat n'a commencé à s'en inquiéter qu'à la fin de la deuxième année quand je suis venu leur demander ce qu'il me restait à faire pour obtenir mon diplôme. Le système de transmission des notes et des matières validées n'étant pas automatisé, il est également possible d’avoir des matières que l'on croit avoir validé, mais qui sont marquées comme manquantes dans le dossier du décanat.
+
+Mais, comme souvent avec l'administration russe, en étant poli et de bonne volonté, on finit toujours par régler tous ses problèmes. Ainsi, quand à la fin de la seconde année, j'ai appris que je n'avais pas validé des cours du premier semestre de la première année, je n'ai eu qu'à passer quelques jours à faire des aller-retours entre différents bâtiments de l'université pour récolter diverses signatures, et le problème a disparu. Je n'ai eu à repasser d'examens ou faire autre chose que demander gentiment des signatures sur un petit carnet.
+
+Cependant, si je pouvais donner un conseil aux futurs élèves étrangers dans ma faculté, ce serait d’aller au moins une fois par semestre au décanat pour vérifier que son dossier est en ordre.
+
 ### La faculté
 
 ## L'administration de l'État, parce qu'on ne rigole pas avec la loi
