@@ -43,7 +43,9 @@ que je recommande à tous ceux qui viendraient étudier à Moscou.
 J'ai personnellement fait quatre véritables voyages en Russie:
 
 #### Crimée
+
 ![Panorama pris en Crimée](images/panorama_Crimée.jpg)
+
 J'ai été en Crimée, hébergé gratuitement dans un des centres de vacances de l'université. Ce fut
  l'occasion de rencontrer en dehors d'un cadre universitaire d’autres étudiants, y compris
  des plus jeunes que l'on a moins l'occasion de fréquenter à l'université, et de parler avec des
