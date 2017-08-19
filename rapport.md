@@ -283,10 +283,14 @@ Les règles d’immigration russes sont elles (bien sûr) strictes et non négoc
 La loi de la fédération de Russie oblige tous les étrangers restant plus d’une semaine à communiquer aux autorités son lieu d’habitation. Cette procédure s’appelle *l'enregistrement (регистрация)*. Elle est effectuée par l'université pour les étudiants en résidence universitaire, mais les autres doivent le faire par eux-mêmes. Cette carte d'enregistrement peut être demandée lorsque l’on se fait arrêter dans la rue. Cependant, comme je l’ai expliqué plus haut, il est rare pour un blanc de subir un contrôle d’identité dans la rue ou dans le métro.
 
 # Les études
-
-## À la découverte de l'université russe
-
 ## L'université de Bauman, un établissement d'exception en Russie
+
+![Deux beaux nantraliens, posant fièrement devant l’université de Bauman](images/Bauman.jpg)
+
+J'ai effectué mon double-diplôme à [l’université technique d’état de Moscou - Bauman (МГТУ им. Баумана)](https://fr.wikipedia.org/wiki/Universit%C3%A9_technique_d%27%C3%89tat_de_Moscou-Bauman). Si il est probable que ce nom ne vous dise rien en France, il est en Russie connu et respecté. L'examen d’entrée y est difficile et très sélectif, et il a une bonne réputation (notamment pour ne pas laisser de place à la corruption, qui ronge d’autres établissements). L’université la plus prestigieuse de Russie est certainement celle de Lomonosov, mais elle est généraliste et plus tournée vers la recherche. Pour ce qui est de l'ingénierie, Bauman est sans doute la meilleure université de Russie.
+
+L'université a également plus de moyens que la plupart de ses consœurs russes. Plusieurs étages du bâtiment principal ont été refaits durant mon séjour, et l’intérieur des bâtiments a désormais un aspect très moderne et classieux, il est très agréable.
+
 ## Ma faculté: l'informatique d'aujourd'hui, mais avec un léger parfum soviétique
 
 ## Déroulement de l'année
