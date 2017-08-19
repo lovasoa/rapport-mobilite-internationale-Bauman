@@ -1,3 +1,7 @@
+% Rapport de mobilité internationale
+% Ophir LOJKINE
+% septembre 2015 - août 2017
+
 # Quelques mots d'introduction
 Je m'appelle Ophir, et je suis élève en école d’ingénieur.
 
