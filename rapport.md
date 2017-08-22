@@ -301,7 +301,8 @@ Les cours y sont donc variés. Certains sont très théoriques (algèbre relatio
 
 La qualité des cours dépend bien sûr de celle des professeurs. Certains vieux professeurs soviétiques ont tendance à simplement lire leur cours d’une voix soporifique, ce qui est déjà ennuyeux pour les élèves russes, mais complètement impossible à suivre pour un élève ne maîtrisant pas bien le russe. D’autres professeurs s’aident de supports visuels, écrivent les formules au tableau et proposent des exercices et des exemples au fur et à mesure du cours, ce qui permet de rester accroché même avec un niveau de russe moyen.
 
-Pour ce qui est du contenu des cours eux-mêmes, il est aussi variable selon les professeurs.
+Pour ce qui est du contenu des cours eux-mêmes, il est aussi variable selon les professeurs. L'informatique est une discipline particulière, dans laquelle beaucoup de technologies deviennent vite obsolètes, et l'une de mes peurs avant d'arriver était de me voir enseigner des langages, bibliothèques, ou méthodologies dépassées. Heureusement, dans l'ensemble, mes professeurs étaient plutôt à jour, voir très à jour pour certains, comme le professeur de BigData qui traitait notamment de frameworks innovants et en train de gagner de la popularité, et qui n'ont que quelques années. Malheureusement, d'autre cours, surtout les plus mathématiques, étaient enseignés par des professeurs qui ne s'intéressaient pas vraiment aux technologies modernes. Une pensée particulière pour mon professeur d'analyse de séries temporelles, qui appelait internet "l'océan de détritus"...
+
 
 ## Déroulement de l'année
 ### L'emploi du temps, une épreuve pour les français
