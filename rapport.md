@@ -325,7 +325,12 @@ L'échelle de notes est beaucoup plus petite qu'en France, où les notes sont g�
 Le **2** est très rare, il peut être mis à un élève qui non seulement ne connaît pas son cours, mais en plus refuse de l’apprendre pour des rattrappages. Comme on peut en général négocier de faire un exercice supplémentaire ou passer un rattrapage après un examen raté (y compris si l’examen était lui-même un rattrapage), les *mauvaises notes* sont vraiment rares, et les meilleurs élèves finissent toute leur scolarité avec uniquement des **5**.
 
 ### Le mémoire de master
+
 ![Le protagoniste principal de cette aventure avec son mémoire de master, juste après l'avoir brillament défendu.](images/diplome.jpg)
+
+Le diplôme de master se concrétise par la rédaction d'un mémoire, qui doit être le résultat d'un travail académique de recherche poussé, d'expériences, d'analyse, et d'une part de créativité et d'initiative personnelle. Ce travail doit théoriquement commencer dès la première année, mais c'était pour moi inenvisageable au regard de mon niveau de russe (et un peu de mon manque de motivation personnelle). Par contre, le travail sur le mémoire est crucial la seconde année, et l'emploi du temps du dernier semestre est consacré quasi-exclusivement à sa rédaction.
+
+Tout le travail est fait sous la direction d'un *directeur scientifique* (научный руковадитель). Le choix du sujet du master se fait avec lui au début de la première année. Ce sujet ne doit être ni trop simple, ni trop complexe. Il doit être abordable par un étudiant de niveau master seul, mais représenter une avancée de l’état de l’art dans le sujet traité, et pas une simple revue de l’existant ou, en informatique, une simple implémentation d’algorithmes déjà présents dans la littérature.
 
 # Conclusion: comment la Russie m'a changé
 
