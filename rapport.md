@@ -187,11 +187,7 @@ accent français clairement audible, et la littérature ou la poésie russes nou
 
 ## Traditions et mentalité russe, un autre regard sur le monde
 
-La mentalité, les habitudes, et les points de vues des russes sur les affaires
-du monde comme sur la vie de tous les jours sont parfois différents de ce à quoi
-nous sommes habitués en Europe occidentale. C'est en partie pour découvrir
-ces différences que j'avais décidé de partir, et il est toujours passionnant de découvrir une autre culture, mais il peut aussi parfois être difficile de s'habituer à ces différences de mentalités...
-Je vais donc ici en lister quelques unes, et si vous entreprenez plus tard le même voyage que moi, vous serez moins surpris.
+La mentalité, les habitudes, et les points de vues des russes sur les affaires du monde comme sur la vie de tous les jours sont parfois différents de ce à quoi nous sommes habitués en Europe occidentale. C'est en partie pour découvrir ces différences que j'avais décidé de partir, et il est toujours passionnant de découvrir une autre culture, mais il peut aussi parfois être difficile de s'habituer à ces différences de mentalités... Je vais donc ici en lister quelques unes, et si vous entreprenez plus tard le même voyage que moi, vous serez moins surpris.
 
 ### Relation à l’histoire tourmentée du pays
 La Russie d’aujourd’hui est toujours profondément marquée par la seconde guerre mondiale.
@@ -310,6 +306,8 @@ J'ai étudié dans la faculté IU (ИУ), dans la chaire IU5 (ИУ5): Systèmes 
 La première fois, les examens russes peuvent être surprenants pour un élève français, car leur forme est différente de ce que l'on connaît ici. Ils ont lieu pour toutes les matières à la fin de chaque trimestre. En général, quelques semaines avant les partiels, les professeurs donnent chacun une liste, en général assez longue, de «billets ». Il s'agit de questions ou thèmes précis à préparer pour l'examen. Le jour de l'examen, tous les billets sont disposés sur le bureau du professeur, sous forme de petites bandelettes de papier, face cachée. Chacun à leur tour, les élèves retournent une bandelette, la montrent au professeur, et vont s'asseoir dans la salle pour préparer leur réponse. Ensuite, chaque élève passe tour à tour devant le professeur pour présenter sa réponse à son billet, et répondre aux questions, demandes de précisons, et exercices de ce dernier. Finalement, le professeur *propose* une note à l'élève. Si cette note ne convient pas à l'élève, parce qu'il estime qu'elle ne reflète pas son travail, alors il le dit simplement, et on lui propose en général une question supplémentaire, un autre billet, ou même de repasser l'examen un autre jour !
 
 Ce système a l'avantage de permettre aux enseignants d'interroger directement les élèves pour vérifier leurs connaissances et leur capacité à résoudre des exercices. Mais il souffre d'un gros problème d'organisation. Chaque élève reste devant le professeur jusqu'à vingt minutes, parfois plus lorsqu'il repasse plusieurs fois. Et au lieu d'être convoqués dans un ordre prédéfini, à vingt minutes d'intervalle, les élèves arrivent tous en même temps, au début de l'épreuve, et commencent à faire la queue pour passer lorsqu'ils le souhaitent. Par conséquent, alors que les élèves les plus rapides sortent après environ une heure, les derniers doivent attendre jusqu'à cinq ou six heures après avoir fini de préparer leur réponse, sans pouvoir sortir de la salle, avant de pouvoir la présenter au professeur.
+
+En plus de ces examens, il peut y avoir, comme chez nous, de petits contrôles de cours, des travaux pratiques, appelés *travaux de laboratoire* (лабораторные работы), et des travaux dirigés (appelés séminaires -- семинары). Il y a également régulièrement de gros devoirs maison, appelés travaux de cours (курсовые работы).  
 
 #### Les notes
 ### Le mémoire de master
