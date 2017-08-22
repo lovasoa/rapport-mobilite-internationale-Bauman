@@ -295,7 +295,13 @@ L'université a également plus de moyens que la plupart de ses consœurs russes
 
 ## Ma faculté: l'informatique d'aujourd'hui, mais avec un léger parfum soviétique
 
-J'ai étudié dans la faculté IU (ИУ), dans la chaire IU5 (ИУ5): Systèmes de contrôle et traitement de l'information.
+J'ai étudié dans la faculté IU (ИУ), dans la chaire IU5 (ИУ5): Systèmes de contrôle et traitement de l'information. Cette faculté n’est pas orientée directement vers la programmation, mais plutôt vers la conception de systèmes informatiques complexes pour l’entreprise ou les grandes administrations, ce qui inclue la programmation, mais ausi la modélisation, la planification, la gestion et certains sous-domaines des mathématiques.
+
+Les cours y sont donc variés. Certains sont très théoriques (algèbre relationnelle, analyse de séries temporelles, théorie des files d’attente), d’autres sont directement liés à la programmation (plateforme Java, patrons de conception de la programmation orientée objet), d’autres encore sont à la frontière entre les deux, comme le cours d’intelligence artificielle, très théorique mais dont les TPs comprenaient par exemple la réalisation d’un réseau de neurones à partir de zéro. Enfin, certains cours sont destinés à nous préparer à des fonctions de direction, comme le cours de gestion de projets ou celui d’économie de l’entreprise.
+
+La qualité des cours dépend bien sûr de celle des professeurs. Certains vieux professeurs soviétiques ont tendance à simplement lire leur cours d’une voix soporifique, ce qui est déjà ennuyeux pour les élèves russes, mais complètement impossible à suivre pour un élève ne maîtrisant pas bien le russe. D’autres professeurs s’aident de supports visuels, écrivent les formules au tableau et proposent des exercices et des exemples au fur et à mesure du cours, ce qui permet de rester accroché même avec un niveau de russe moyen.
+
+Pour ce qui est du contenu des cours eux-mêmes, il est aussi variable selon les professeurs.
 
 ## Déroulement de l'année
 ### L'emploi du temps, une épreuve pour les français
