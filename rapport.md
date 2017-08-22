@@ -310,6 +310,13 @@ Ce système a l'avantage de permettre aux enseignants d'interroger directement l
 En plus de ces examens, il peut y avoir, comme chez nous, de petits contrôles de cours, des travaux pratiques, appelés *travaux de laboratoire* (лабораторные работы), et des travaux dirigés (appelés séminaires -- семинары). Il y a également régulièrement de gros devoirs maison, appelés travaux de cours (курсовые работы).  
 
 #### Les notes
+L'échelle de notes est beaucoup plus petite qu'en France, où les notes sont généralement sur 20. En Russie, les notes sont sur cinq, et recevoir 0, 1 ou 2 est quasiment impossible. Cela laisse trois notes vraiment possibles:
+ * **5**, pour les élèves qui connaissent bien leur cours et savent résoudre les exercices. Il n'est pas obligatoire de tout faire parfaitement pour recevoir un 5.
+ * **4**, quand l'élève a compris le cours en général, mais n'a pas saisi toutes les nuances, ou fait des erreurs dans ses exercices.
+ * **3**, pour un élève qui n’a pas vraiment compris le cours ou ne peut pas résoudre d’exercices correctement.
+
+Le **2** est très rare, il peut être mis à un élève qui non seulement ne connaît pas son cours, mais en plus refuse de l’apprendre pour des rattrappages. Comme on peut en général négocier de faire un exercice supplémentaire ou passer un rattrapage après un examen raté (y compris si l’examen était lui-même un rattrapage), les *mauvaises notes* sont vraiment rares, et les meilleurs élèves finissent toute leur scolarité avec uniquement des **5**.
+
 ### Le mémoire de master
 ![Le protagoniste principal de cette aventure avec son mémoire de master, juste après l'avoir brillament défendu.](images/diplome.jpg)
 
