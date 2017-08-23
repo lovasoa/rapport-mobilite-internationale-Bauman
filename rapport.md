@@ -332,6 +332,10 @@ Le diplôme de master se concrétise par la rédaction d'un mémoire, qui doit �
 
 Tout le travail est fait sous la direction d'un *directeur scientifique* (научный руковадитель). Le choix du sujet du master se fait avec lui au début de la première année. Ce sujet ne doit être ni trop simple, ni trop complexe. Il doit être abordable par un étudiant de niveau master seul, mais représenter une avancée de l’état de l’art dans le sujet traité, et pas une simple revue de l’existant ou, en informatique, une simple implémentation d’algorithmes déjà présents dans la littérature.
 
+Le directeur de recherche aide et conseille l'élève pendant ses recherches, le guide vers des articles scientifiques liés à son travail, et peut même corédiger des articles avec lui. La publication d'un minimum de deux articles dans des revues scientifiques est obligatoire durant le master.
+
+Cependant, les élèves de master n’ont pas toujours un niveau suffisant pour publier dans de grandes revues, et les publications se font parfois dans de toutes petites revues, voire dans des revues à la rigueur scientifique discutable. Il m'est même arrivé qu'un doctorant me propose de payer de l'argent pour associer mon nom à un article auquel je n’avais pas participé! C'est le seul cas de tentative corruption que j'ai observé en deux ans à l'intérieur de l'université. J'ai bien sûr refusé. 
+
 # Conclusion: comment la Russie m'a changé
 
 # Annexe
