@@ -307,7 +307,11 @@ Pour ce qui est du contenu des cours eux-mêmes, il est aussi variable selon les
 ## Déroulement de l'année
 ### L'emploi du temps, une épreuve pour les français
 
+L'emploi du temps a été quelques peu déroutant pour moi au début. La chose la plus difficile étant sans doute qu'il n'y a pas d’heure fixée pour le déjeuner. Les russes sont moins habitués que les français à manger à heure régulière, et les emplois du temps ne prévoient pas systématiquement de pause autour de midi pour le déjeuner. Les jours où l’on a cours du matin au soir sans interruption, il faut se débrouiller pour aller acheter un petit truc à manger à la cantine lors d’un intercours. Par contre, lorsque l'on a un trou dans son emploi du temps, on peut aller à la cantine du bâtiment principal de l’université, où l’on trouve tous les jours de bons plats de cuisine russe très peu chers.
+
 ![Mon emploi du temps du premier semestre de seconde année de master](images/emploi_du_temps.pdf)
+
+L'emploi du temps est globalement moins chargé que ce à quoi j'étais habitué à l'École Centrale de Nantes. Mais il ne faut pas oublier de se ménager régulièrement du temps de révision et de travail sur les devoirs maisons... Ou être prêts à ne pas dormir pendant plusieurs jours à la fin de chaque semestre.
 
 ### Les examens
 La première fois, les examens russes peuvent être surprenants pour un élève français, car leur forme est différente de ce que l'on connaît ici. Ils ont lieu pour toutes les matières à la fin de chaque trimestre. En général, quelques semaines avant les partiels, les professeurs donnent chacun une liste, en général assez longue, de «billets ». Il s'agit de questions ou thèmes précis à préparer pour l'examen. Le jour de l'examen, tous les billets sont disposés sur le bureau du professeur, sous forme de petites bandelettes de papier, face cachée. Chacun à leur tour, les élèves retournent une bandelette, la montrent au professeur, et vont s'asseoir dans la salle pour préparer leur réponse. Ensuite, chaque élève passe tour à tour devant le professeur pour présenter sa réponse à son billet, et répondre aux questions, demandes de précisons, et exercices de ce dernier. Finalement, le professeur *propose* une note à l'élève. Si cette note ne convient pas à l'élève, parce qu'il estime qu'elle ne reflète pas son travail, alors il le dit simplement, et on lui propose en général une question supplémentaire, un autre billet, ou même de repasser l'examen un autre jour !
@@ -334,7 +338,7 @@ Tout le travail est fait sous la direction d'un *directeur scientifique* (нау
 
 Le directeur de recherche aide et conseille l'élève pendant ses recherches, le guide vers des articles scientifiques liés à son travail, et peut même corédiger des articles avec lui. La publication d'un minimum de deux articles dans des revues scientifiques est obligatoire durant le master.
 
-Cependant, les élèves de master n’ont pas toujours un niveau suffisant pour publier dans de grandes revues, et les publications se font parfois dans de toutes petites revues, voire dans des revues à la rigueur scientifique discutable. Il m'est même arrivé qu'un doctorant me propose de payer de l'argent pour associer mon nom à un article auquel je n’avais pas participé! C'est le seul cas de tentative corruption que j'ai observé en deux ans à l'intérieur de l'université. J'ai bien sûr refusé. 
+Cependant, les élèves de master n’ont pas toujours un niveau suffisant pour publier dans de grandes revues, et les publications se font parfois dans de toutes petites revues, voire dans des revues à la rigueur scientifique discutable. Il m'est même arrivé qu'un doctorant me propose de payer de l'argent pour associer mon nom à un article auquel je n’avais pas participé! C'est le seul cas de tentative corruption que j'ai observé en deux ans à l'intérieur de l'université. J'ai bien sûr refusé.
 
 # Conclusion: comment la Russie m'a changé
 
