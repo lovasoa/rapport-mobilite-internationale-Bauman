@@ -33,7 +33,7 @@ formidable mais difficile expérience que constitue l'expatriation en Russie.
 
 ![On se rend compte de l'immensité de la Russie en la regardant sur un globe. Source: wikimedia](images/Russie_globe.pdf)
 
-Il suffit de regarder une mappemonde pour comprendre la première raison pour laquelle la Russie fascine : c'est tout simplement le plus grand pays du monde. Voisin à la fois de la Pologne et de la Corée du Nord, le pays s'étend sur des milliers de kilomètres, entre l'Europe et l'Asie. Les russes que j'ai rencontrés ne se sentent d'ailleurs ni européens ni asiatiques, et n'hésitent pas à comparer leur pays aux autres continents, et en premier lieu à l'Europe...
+Il suffit de regarder une mappemonde pour comprendre la première raison pour laquelle la Russie fascine : c'est tout simplement le plus grand pays du monde. Voisin à la fois de la Pologne et de la Corée du Nord, le pays s'étend sur des milliers de kilomètres, entre l'Europe et l'Asie. Les Russes que j'ai rencontrés ne se sentent d'ailleurs ni européens ni asiatiques, et n'hésitent pas à comparer leur pays aux autres continents, et en premier lieu à l'Europe...
 
 ![La formidable diversité de la Russie est représentée par tous ses sujets, de différentes natures, dont on voit ici les drapeaux. Source: wikimedia commons](images/flags.png)
 
@@ -119,7 +119,7 @@ Lors de mon arrivée, mes camarades français et moi avons tout d'abord été lo
 d'Altufievo, à une heure en métro de l'université, dans
 une résidence spéciale pour les étrangers. Cette résidence a un tout petit loyer
 (moins de 3000 roubles par mois), et jouit de conditions plus favorables que celles
-où logent les russes:
+où logent les Russes:
 deux par chambre, cuisine et douche communes pour chaque appartement de trois chambres.
 Cette résidence nous a bien dépannés quand nous sommes arrivés, mais
 les conditions d’hygiènes et son éloignement de l'université comme des autres élèves russes
@@ -193,15 +193,15 @@ La mentalité, les habitudes, et les points de vues des russes sur les affaires 
 La Russie d’aujourd’hui est toujours profondément marquée par la seconde guerre mondiale.
 L’URSS est le pays qui a payé le plus lourd tribu lors de la seconde guerre, et à Moscou,
 la quasi-totalité des familles compte au moins un grand-père ou un arrière grand-père mort à la guerre.
-Ce souvenir tragique est ainsi inscrit dans toutes les mémoires, et les russes ne tolèrent pas que les occidentaux
+Ce souvenir tragique est ainsi inscrit dans toutes les mémoires, et les Russes ne tolèrent pas que les occidentaux
 sous-estiment l’importance cruciale de l’URSS dans la victoire contre le nazisme, trouvant même parfois injuste le manque
 de reconnaissance du reste du monde aux soldats russes qui ont donné leur vie pour vaincre l’Allemagne d’Hitler.
 La victoire contre le troisième reich est encore aujourd’hui célébrée tous les ans lors de la fête du *jour de la victoire (день победы, le 9 mai)* par de gigantesques cérémonies à travers toute la Russie.
 
-![Participation au «bataillon immortel», gigantesque manifestation de commémoration le 9 mai 2017 sur la place rouge. Le ruban orange et noir symbolise la victoire contre le nazisme. Tous les russes portent une photographie d’un parent mort durant la guerre.](images/9mai.jpg)
+![Participation au «bataillon immortel», gigantesque manifestation de commémoration le 9 mai 2017 sur la place rouge. Le ruban orange et noir symbolise la victoire contre le nazisme. Tous les Russes portent une photographie d’un parent mort durant la guerre.](images/9mai.jpg)
 
 D'autres éléments de l'histoire russe, qui peuvent nous sembler plus importants en Europe, sont au contraire moins présents dans les mémoires, les récits, et l'imaginaire national. C'est par exemple le cas des répressions politiques et des goulags soviétiques, dont on parle beaucoup moins. Le personnage de Staline, par exemple, est vu avant tout comme le vainqueur de la seconde guerre mondiale et la personne qui a délivré le monde du nazisme beaucoup plus que comme un tyran qui a fait envoyer au goulag des centaines de milliers de russes.
-Un autre exemple est a révolution russe, que tous les russes connaissent, bien sûr, mais qui n'est pas du tout célébrée.
+Un autre exemple est a révolution russe, que tous les Russes connaissent, bien sûr, mais qui n'est pas du tout célébrée.
 
 Pour ce qui est de l'histoire récente, et notemment l’URSS, les personnes que j’ai pu rencontrer à Moscou qui ont vécu en Union Soviétique en avaient en général des souvenirs positifs, notamment parce que les inégalités se sont beaucoup accrues depuis la chute de l'URSS. Cependant, les idées communistes ne sont pas répandues du tout chez les jeunes, qui ont en général une vision de l'économie proche de la notre. La Russie d’aujourd’hui est d’ailleurs à bien des égards un pays beaucoup plus capitaliste que la France, avec par exemple des impôts plus faibles, et un plus faible interventionnisme de l'État dans les affaires sociales.
 
@@ -212,7 +212,7 @@ Aujourd’hui, le pays est marqué par de très fortes inégalités, et il y a �
 ### Les relations sociales: respect, amour et amitié dans l'esprit de l’*âme russe*
  Les relations sociales, que ce soit avec des supérieurs, des amis, ou avec son partenaire, sont parfois différentes de nos conventions sociales françaises. Et la sincérité, la dévotion, et le respect de beaucoup de russes est une des choses que j’ai appréciées.
 
-Il peut sembler, en arrivant à Moscou, que les russes sont très froids et secs. Et c'est vrai, le plupart du temps, les russes ne se comportent pas en amis avec les gens qu'ils ne connaissent pas. Il y a, me semble-t-il, beaucoup moins de relations superficielles, de personnes à qui l'on parle régulièrement sans être amis. Il y a bien sûr des exceptions, mais les gens ne vont en général pas vous taper dans le dos, vous raconter leur vie ou vous poser des questions personnelles si ils ne sont pas vraiment amis avec vous. Mais au contraire, si l'on réussit à percer cette carapace, les russes ont souvent une âme beaucoup plus chaleureuse, plus généreuse, et plus dévouée que les français que j'ai rencontrés. Tous les russes que j'ai rencontrés appellent tous leurs amis au téléphone très régulièrement, ne répondent jamais «je suis occuppé» quand un ami veut les voir, ne s’écrivent pas juste «joyeux anniversaire», mais de longs messages d’anniversaire personnalisés, et bien sûr boivent de la vodka ensemble régulièrement.
+Il peut sembler, en arrivant à Moscou, que les Russes sont très froids et secs. Et c'est vrai, le plupart du temps, les Russes ne se comportent pas en amis avec les gens qu'ils ne connaissent pas. Il y a, me semble-t-il, beaucoup moins de relations superficielles, de personnes à qui l'on parle régulièrement sans être amis. Il y a bien sûr des exceptions, mais les gens ne vont en général pas vous taper dans le dos, vous raconter leur vie ou vous poser des questions personnelles si ils ne sont pas vraiment amis avec vous. Mais au contraire, si l'on réussit à percer cette carapace, les Russes ont souvent une âme beaucoup plus chaleureuse, plus généreuse, et plus dévouée que les français que j'ai rencontrés. Tous les Russes que j'ai rencontrés appellent tous leurs amis au téléphone très régulièrement, ne répondent jamais «je suis occuppé» quand un ami veut les voir, ne s’écrivent pas juste «joyeux anniversaire», mais de longs messages d’anniversaire personnalisés, et bien sûr boivent de la vodka ensemble régulièrement.
 
 ![Ma copine russe et moi](images/amour.jpg)
 
@@ -236,7 +236,7 @@ sont ici moins répandus et plus tabous.
 La Russie est le deuxième pays au monde accueillant le plus d’immigrés, et de toutes les villes du pays, c’est
 Moscou qui en compte le plus. La population d’immigrés compte notemment un grand nombre de personnes originaires
 d’Asie centrale (tadjiks, ouzbeks, kirghizes) qui occuppent en général des métiers physiques dans des conditions
-difficiles, sont pauvres, et parfois mal considérés du reste de la population. Bien sûr, tous les russes ne sont pas racistes,
+difficiles, sont pauvres, et parfois mal considérés du reste de la population. Bien sûr, tous les Russes ne sont pas racistes,
 mais il faudra par exemple vous attendre à être contrôlés plus souvent par la police, à avoir plus
 de mal à louer un appartement, et peut-être même à vous faire des amis si vous n’êtes pas blanc de peau.
 Je n'ai par exemple pas subi un seul contrôle d’identité durant tout mon séjour de deux ans, alors qu’une amie, qui est elle russe depuis toujours, mais a un physique asiatique, est contrôlée régulièrement.
@@ -307,7 +307,7 @@ Pour ce qui est du contenu des cours eux-mêmes, il est aussi variable selon les
 ## Déroulement de l'année
 ### L'emploi du temps, une épreuve pour les français
 
-L'emploi du temps a été quelques peu déroutant pour moi au début. La chose la plus difficile étant sans doute qu'il n'y a pas d’heure fixée pour le déjeuner. Les russes sont moins habitués que les français à manger à heure régulière, et les emplois du temps ne prévoient pas systématiquement de pause autour de midi pour le déjeuner. Les jours où l’on a cours du matin au soir sans interruption, il faut se débrouiller pour aller acheter un petit truc à manger à la cantine lors d’un intercours. Par contre, lorsque l'on a un trou dans son emploi du temps, on peut aller à la cantine du bâtiment principal de l’université, où l’on trouve tous les jours de bons plats de cuisine russe très peu chers.
+L'emploi du temps a été quelques peu déroutant pour moi au début. La chose la plus difficile étant sans doute qu'il n'y a pas d’heure fixée pour le déjeuner. Les Russes sont moins habitués que les français à manger à heure régulière, et les emplois du temps ne prévoient pas systématiquement de pause autour de midi pour le déjeuner. Les jours où l’on a cours du matin au soir sans interruption, il faut se débrouiller pour aller acheter un petit truc à manger à la cantine lors d’un intercours. Par contre, lorsque l'on a un trou dans son emploi du temps, on peut aller à la cantine du bâtiment principal de l’université, où l’on trouve tous les jours de bons plats de cuisine russe très peu chers.
 
 ![Mon emploi du temps du premier semestre de seconde année de master](images/emploi_du_temps.pdf)
 
@@ -345,7 +345,7 @@ En deux ans à Moscou, je pense avoir appris beaucoup. Pas simplement par les co
 
 Tout d'abord j'ai appris à vivre de manière autonome à l'étranger, loin de mes repères matériels, mais aussi idéologiques. J'ai essayé d'apprendre à accepter et intégrer d'autres opinions, et aussi à ne pas être d'accord sans se fâcher ni s'énerver.
 
-Ensuite, j'ai essayé d'apprendre à connaître les russes eux-mêmes et ce qu'ils appellent «l'âme russe»: tout voir en grand, de l'amour passionnel et inconditionnel pour tout ce que l'on peut aimer à l'art de voir des drames et des tragédies dans toutes les choses de la vie, et enfin la patience de supporter tout ce que l'on ne peut pas changer.
+Ensuite, j'ai essayé d'apprendre à connaître les Russes eux-mêmes et ce qu'ils appellent «l'âme russe»: tout voir en grand, de l'amour passionnel et inconditionnel pour tout ce que l'on peut aimer à l'art de voir des drames et des tragédies dans toutes les choses de la vie, et enfin la patience de supporter tout ce que l'on ne peut pas changer.
 
 Enfin, certainement, j'ai réalisé la chance que j'ai d'avoir grandi comme enfant riche dans un pays riche. J'ai appris à relativiser mon mérite personnel par rapport à ce que m'ont apporté mon contexte familial et les moyens du système éducatif français.
 
