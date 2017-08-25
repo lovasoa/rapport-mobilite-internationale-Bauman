@@ -347,7 +347,7 @@ Ensuite, j'ai essayé d'apprendre à connaître les Russes eux-mêmes et ce qu'i
 
 Enfin, certainement, j'ai réalisé la chance que j'ai d'avoir grandi comme enfant riche dans un pays riche. J'ai appris à relativiser mon mérite personnel par rapport à ce que m'ont apporté mon contexte familial et les moyens du système éducatif français.
 
-Pour conclure, je peux dire que je suis très heureux d'avoir fait cette expérience, qui m'a ouvert bien sûr des opportunités professionnelles, mais surtout une nouvelle perspective sur le monde, un développement personnel, et une vison des relations humaines que je n'aurais pas obtenus ailleurs.
+Pour conclure, je peux dire que je suis très heureux d'avoir fait cette expérience, qui m'a ouvert bien sûr des opportunités professionnelles, ayant trouvé un poste intéressant et bien rémunéré en France grâce à mon travail de master, mais surtout une nouvelle perspective sur le monde, un développement personnel, et une vison des relations humaines que je n'aurais pas obtenus ailleurs.
 
 # Annexe
 ### Fiche de renseignement pays
