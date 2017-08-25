@@ -222,9 +222,9 @@ Pour ce qui est des relations à ses supérieurs, comme par exemple à ses profe
 Pour les relations de travail, l’entreprise dans laquelle j’ai travaillé était une startup et les relations y étaient très détendues, très conviviales, loin de ce que je m'imaginais avant d’y rentrer.
 
 ### Racisme, antisémitisme, homophobie, et autres joyeusetés
-La tolérence à tout ce qui s’éloigne de l’homme slave hétérosexuel chrétien est encore
+La tolérance à tout ce qui s’éloigne de l’homme slave hétérosexuel chrétien est encore
 parfois un problème en Russie aujourd'hui. Les plus jeunes générations sont en général plus
-tolérentes, mais même parmi elles, il peut encore arriver d’entendre des remarques qui risquent d’être choquantes pour un
+tolérantes, mais même parmi elles, il peut encore arriver d’entendre des remarques qui risquent d’être choquantes pour un
 européen moyen.
 
 Je porte moi-même un prénom juif, et il m'est arrivé plusieurs fois d'entendre des *blagues* pleines
