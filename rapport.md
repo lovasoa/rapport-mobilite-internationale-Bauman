@@ -122,7 +122,7 @@ une résidence spéciale pour les étrangers. Cette résidence a un tout petit l
 où logent les Russes:
 deux par chambre, cuisine et douche communes pour chaque appartement de trois chambres.
 Cette résidence nous a bien dépannés quand nous sommes arrivés, mais
-les conditions d’hygiènes et son éloignement de l'université comme des autres élèves russes
+les conditions d’hygiène et son éloignement de l'université comme des autres élèves russes
 me font douter de la pertinence même de son existence...
 
 J'ai donc décidé, une fois que je commençais à parler un peu russe, de chercher un nouveau
