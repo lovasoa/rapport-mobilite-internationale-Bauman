@@ -22,7 +22,7 @@ que dans des articles critiquant la politique de Vladimir Poutine.
 Pourtant, et bien que la politique russe soit un sujet intéressant,
 il y a beaucoup plus à découvrir à propos de ce pays.
 Mon objectif ici sera de donner une vision de la Russie telle
-que je l'ai vécue, en essayant de m’éloigner des stérétypes et
+que je l'ai vécue, en essayant de m’éloigner des stéréotypes et
 des généralités, et si possible en donnant des informations
 utiles aux étudiants qui seraient tentés par la
 formidable mais difficile expérience que constitue l'expatriation en Russie.
