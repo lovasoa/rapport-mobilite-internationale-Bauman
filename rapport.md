@@ -165,7 +165,7 @@ plus élevé qu'en France.
 
 Beaucoup de russes, y compris chez les jeunes élèves-ingénieurs, ne parlent que le russe. Ceux qui s'expriment correctement en anglais (ou dans une autre langue), sont ceux qui ont pris des cours particuliers ou ont vécu à l'étranger, le système d'apprentissage des langues à l'école étant plutôt mauvais.
 
-Il est donc absolument indispensable d'apprendre le russe pour poursuivre ses études d'ingénieurs, rencontrer des gens, voyager, et tout simplement se débrouiller dans la vie de tous les jours.
+Il est donc absolument indispensable d'apprendre le russe pour poursuivre ses études d'ingénieur, rencontrer des gens, voyager, et tout simplement se débrouiller dans la vie de tous les jours.
 
 La langue russe n'est pas d'une difficulté insurmontable pour les français, mais elle reste plus éloignée de notre langue que l'allemand, l'anglais, ou l'espagnol, et plus difficile à apprendre. Il faut donc consacrer du temps et de l'énergie à l'apprentissage ou au perfectionnement de son russe dès son arrivée.
 
