@@ -320,6 +320,7 @@ En plus de ces examens, il peut y avoir, comme chez nous, de petits contrôles d
 
 #### Les notes
 L'échelle de notes est beaucoup plus petite qu'en France, où les notes sont généralement sur 20. En Russie, les notes sont sur cinq, et recevoir 0, 1 ou 2 est quasiment impossible. Cela laisse trois notes vraiment possibles:
+
  * **5**, pour les élèves qui connaissent bien leur cours et savent résoudre les exercices. Il n'est pas obligatoire de tout faire parfaitement pour recevoir un 5.
  * **4**, quand l'élève a compris le cours en général, mais n'a pas saisi toutes les nuances, ou fait des erreurs dans ses exercices.
  * **3**, pour un élève qui n’a pas vraiment compris le cours ou ne peut pas résoudre d’exercices correctement.
