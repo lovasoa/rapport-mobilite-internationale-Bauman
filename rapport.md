@@ -136,7 +136,7 @@ La résidence était mixte entre russes
 et étrangers, mais les étrangers étaient quand même tous regroupés au dernier étage.
 
 Je me suis finalement installé avec ma copine dans un tout petit appartement dans un
-"quartier-dortoir" de Moscou, pour 20 000 roubles par mois.
+"quartier-dortoir" de Moscou, pour 20 000 roubles par mois.
 
 ### Gagner de l'argent
 Moscou est une ville où les salaires sont beaucoup plus élevés que dans le reste de la Russie,
