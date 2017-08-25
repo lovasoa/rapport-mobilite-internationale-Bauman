@@ -341,6 +341,15 @@ Le directeur de recherche aide et conseille l'élève pendant ses recherches, le
 Cependant, les élèves de master n’ont pas toujours un niveau suffisant pour publier dans de grandes revues, et les publications se font parfois dans de toutes petites revues, voire dans des revues à la rigueur scientifique discutable. Il m'est même arrivé qu'un doctorant me propose de payer de l'argent pour associer mon nom à un article auquel je n’avais pas participé! C'est le seul cas de tentative corruption que j'ai observé en deux ans à l'intérieur de l'université. J'ai bien sûr refusé.
 
 # Conclusion: comment la Russie m'a changé
+En deux ans à Moscou, je pense avoir appris beaucoup. Pas simplement par les connaissances scientifiques acquises lors des cours et des recherches pour mon mémoire, mais surtout par la langue que j'ai apprise, les rencontres que j'ai faites, les discussions que j'ai eues, et les choses que j'ai vues.
+
+Tout d'abord j'ai appris à vivre de manière autonome à l'étranger, loin de mes repères matériels, mais aussi idéologiques. J'ai essayé d'apprendre à accepter et intégrer d'autres opinions, et aussi à ne pas être d'accord sans se fâcher ni s'énerver.
+
+Ensuite, j'ai essayé d'apprendre à connaître les russes eux-mêmes et ce qu'ils appellent «l'âme russe»: tout voir en grand, de l'amour passionnel et inconditionnel pour tout ce que l'on peut aimer à l'art de voir des drames et des tragédies dans toutes les choses de la vie, et enfin la patience de supporter tout ce que l'on ne peut pas changer.
+
+Enfin, certainement, j'ai réalisé la chance que j'ai d'avoir grandi comme enfant riche dans un pays riche. J'ai appris à relativiser mon mérite personnel par rapport à ce que m'ont apporté mon contexte familial et les moyens du système éducatif français.
+
+Pour conclure, je peux dire que je suis très heureux d'avoir fait cette expérience, qui m'a ouvert bien sûr des opportunités professionnelles, mais surtout une nouvelle perspective sur le monde, un développement personnel, et une vison des relations humaines que je n'aurais pas obtenus ailleurs.
 
 # Annexe
 ### Fiche de renseignement pays
