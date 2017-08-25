@@ -87,7 +87,7 @@ peu est Moscou.
 
 ### Se promener
 
-![Le kremlin, la Moskova, et la cathédrale du christ sauveur](images/kremlin.jpg)
+![Le kremlin, la Moskova, et la cathédrale du Christ Sauveur](images/kremlin.jpg)
 
 Si l'on compte la capitale russe comme une ville européenne, alors c'est
 de loin la plus grande et la plus peuplée.
