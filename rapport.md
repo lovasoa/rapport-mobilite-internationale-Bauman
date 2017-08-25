@@ -96,7 +96,7 @@ Non seulement la ville est grande, mais les bâtiments eux-mêmes sont souvent t
 les cathédrales gigantesques et certaines rues de la ville - comparables à nos autoroutes.
 
 C'est en partie pour ce dernier point qu'il n'est pas agréable de se promener partout dans Moscou.
-Malgré cette immensité parfois opressante pour quelqu'un habitué au quotidien d’une ville française,
+Malgré cette immensité parfois oppressante pour quelqu'un habitué au quotidien d’une ville française,
 on peut trouver de nombreux endroits agréables à Moscou.
 Les quartiers les plus agréables sont probablement ceux de l'ultra-centre, où l'on peut trouver certaines
 petites rues bordées de cafés comme en Europe.
@@ -146,7 +146,7 @@ est qualifié dans un domaine comme l'informatique.
  Dans mon master, de nombreux élèves travaillaient pour financer leurs études,
 parfois déjà à des postes à responsabilité avec plusieurs années d'expérience.
 
-J’ai personnelement trouvé un travail de programmeur à mi-temps payé correctement
+J’ai personnellement trouvé un travail de programmeur à mi-temps payé correctement
 (70 000 roubles/mois), et dans un environnement agréable juste à côté de l'université
  après quelques semaines de recherches, et avec un niveau de russe moyen seulement.
  J'ai dû demander une autorisation spéciale à l'université pour obtenir le droit
@@ -176,7 +176,7 @@ Les premiers mois ont donc été à la fois difficiles et passionnants. L'object
 Pour progresser à l'oral, la meilleure solution est probablement de pratiquer beaucoup, et régulièrement, sans avoir peur de ne pas se faire comprendre, de ne pas comprendre ce que l'on nous dit ou d'avoir l'air ridicule. J'ai donc commencé à parler tous les jours et avec tout le monde, d'abord avec les quelques mots que je connaissais et en foulant aux pieds toutes les règles de grammaire, puis, au fur et à mesure, en essayant d'intégrer les mots et les règles que j'apprenais. Je me suis inscrit sur le site italki où j'ai trouvé des partenaires de langue qui apprenaient le français et étaient prêts à donner des leçons de russe en échange de leçons de français. Je me suis inscrit sur tinder, où j'ai échangé d'abord par écrit, puis lors de rencontres, en russe avec des jeunes filles russes. La sensation de progresser de jour en jour, sans jamais apprendre de leçons ou de tableaux de déclinaison, est très agréable et motivante.
 
 La professeure de russe que nous avons eue à l'université nous a également beaucoup aidés à intégrer toutes les nouvelles
-règles dont nous avions besoin pour parler, lire, écrire et comprendre. Les cours de russe de l'université se déroulent en tout petits groupes composés d'étrangers de différents pays, et sont donnés intégralement en russe, ce qui aide aussi beaucoup à progressser rapidement. Svetlana, notre professeure, était en plus une personne formidable et chaleureuse, avec laquelle nous avons tissé des liens d'amitiés au cours des deux années de cours que nous avons eues avec elle.
+règles dont nous avions besoin pour parler, lire, écrire et comprendre. Les cours de russe de l'université se déroulent en tout petits groupes composés d'étrangers de différents pays, et sont donnés intégralement en russe, ce qui aide aussi beaucoup à progresser rapidement. Svetlana, notre professeure, était en plus une personne formidable et chaleureuse, avec laquelle nous avons tissé des liens d'amitiés au cours des deux années de cours que nous avons eues avec elle.
 
 Aujourd'hui, après deux ans de russe, nous sommes tous capables d’avoir une conversation normale en russe,
 d’exprimer un point de vue, de parler de notre domaine d’études en russe, à l'oral et à l'écrit.
@@ -202,7 +202,7 @@ La victoire contre le troisième reich est encore aujourd’hui célébrée tous
 D'autres éléments de l'histoire russe, qui peuvent nous sembler plus importants en Europe, sont au contraire moins présents dans les mémoires, les récits, et l'imaginaire national. C'est par exemple le cas des répressions politiques et des goulags soviétiques, dont on parle beaucoup moins. Le personnage de Staline, par exemple, est vu avant tout comme le vainqueur de la seconde guerre mondiale et la personne qui a délivré le monde du nazisme beaucoup plus que comme un dictateur qui a fait envoyer au goulag des centaines de milliers de russes.
 Un autre exemple est la révolution russe, que tous les Russes connaissent, bien sûr, mais qui n'est pas du tout célébrée.
 
-Pour ce qui est de l'histoire récente, et notemment l’URSS, les personnes que j’ai pu rencontrer à Moscou qui ont vécu en Union Soviétique en avaient en général des souvenirs positifs, notamment parce que les inégalités se sont beaucoup accrues depuis la chute de l'URSS. Cependant, les idées communistes ne sont pas répandues du tout chez les jeunes, qui ont en général une vision de l'économie proche de la nôtre. La Russie d’aujourd’hui est d’ailleurs à bien des égards un pays beaucoup plus capitaliste que la France, avec par exemple des impôts plus faibles, et un plus faible interventionnisme de l'État dans les affaires sociales.
+Pour ce qui est de l'histoire récente, et notamment l’URSS, les personnes que j’ai pu rencontrer à Moscou qui ont vécu en Union Soviétique en avaient en général des souvenirs positifs, notamment parce que les inégalités se sont beaucoup accrues depuis la chute de l'URSS. Cependant, les idées communistes ne sont pas répandues du tout chez les jeunes, qui ont en général une vision de l'économie proche de la nôtre. La Russie d’aujourd’hui est d’ailleurs à bien des égards un pays beaucoup plus capitaliste que la France, avec par exemple des impôts plus faibles, et un plus faible interventionnisme de l'État dans les affaires sociales.
 
 Pour finir avec l’histoire la plus récente, les années 90 sont une période noire de l’histoire de la Russie, à laquelle la libéralisation brutale de tous les secteurs de l'économie et la désagrégation du pouvoir de l'État ont laissé la place au chômage, à l'insécurité, à la mafia, à l'appauvrissement brutal de nombreuses personnes et à l'accaparement des richesses du pays par une oligarchie. Cette période est dans toutes les mémoires, et elle explique en partie la popularité du président Poutine, qui symbolise le retour de l'État fort après cette période trouble.
 
@@ -218,14 +218,14 @@ Aujourd’hui, le pays est marqué par de très fortes inégalités, et il y a �
 
 La vision des relations entre hommes et femmes est, elle, plus traditionnelle que ce à quoi l’on peut être habitué en France. Ainsi, la galanterie est très importante: il est bien vu de laisser sa place aux femmes dans le métro, qu'elles soient plus âgées ou non,   on offre régulièrement des fleurs aux femmes qui nous sont chères, et lors d’un rendez-vous galant, il ne faut pas envisager de partager l'addition si l'on est un homme. La journée internationale de la femme est beaucoup plus importante en Russie qu’en France, et on la souhaite à toutes les femmes de son entourage, en offrant des fleurs et des cadeaux. De manière générale, les hommes se doivent de faire attention au bien-être des femmes qui les entourent. Mais ce respect dû aux femmes va avec une vision traditionnelle et parfois machiste du rôle des femmes. Une amie russe m'a ainsi déjà raconté avoir été l'objet de remarques sexistes d’un professeur âgé à l'université, et beaucoup d’hommes en couple considèrent naturel que l'on prépare à manger pour eux. Au sein du couple, les relations sont souvent pleines de passion et de revirements, et le divorce est courant et pas plus mal considéré qu'en France, il me semble.
 
-Pour ce qui est des relations à ses supérieurs, comme par exemple à ses professeurs à l'université, elles se doivent d’être respectueuses: vouvoiement, utilisation du prénom et du patronyme (et non du nom de famille, comme un Français pourrait s'y attendre), formules de politesse dans ses messages écrits et acceptation des règles fixées. Mais ces relations respectueuses peuvent être teintées d'affection et les professeur sont en général très gentils avec les étudiants européens.
-Pour les relations de travail, l’entreprise dans laquelle j’ai travaillé était une startup et les relations y étaient très détendues, très conviviales, loin de ce que je m'imaginais avant d’y rentrer.
+Pour ce qui est des relations à ses supérieurs, par exemple à ses professeurs à l'université, elles se doivent d’être respectueuses: vouvoiement, utilisation du prénom et du patronyme (et non du nom de famille, comme un Français pourrait s'y attendre), formules de politesse dans ses messages écrits et acceptation des règles fixées. Mais ces relations respectueuses peuvent être teintées d'affection et les professeurs sont en général très gentils avec les étudiants européens.
+Pour les relations de travail, l’entreprise dans laquelle j’ai travaillé était une start-up et les relations y étaient très détendues, très conviviales, loin de ce que je m'imaginais avant d’y rentrer.
 
 ### Racisme, antisémitisme, homophobie, et autres joyeusetés
 La tolérance à tout ce qui s’éloigne de l’homme slave hétérosexuel chrétien est encore
 parfois un problème en Russie aujourd'hui. Les plus jeunes générations sont en général plus
 tolérantes, mais même parmi elles, il peut encore arriver d’entendre des remarques qui risquent d’être choquantes pour un
-européen moyen.
+Européen moyen.
 
 Je porte moi-même un prénom juif, et il m'est arrivé plusieurs fois d'entendre des *blagues* pleines
 de préjugés. Jamais personne ne m’a fait ce genre de remarques par méchanceté, ou avec l’objectif de me nuire,
