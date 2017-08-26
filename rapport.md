@@ -329,7 +329,7 @@ Le **2** est très rare, il peut être mis à un élève qui non seulement ne co
 
 ### Le mémoire de master
 
-![Le protagoniste principal de cette aventure avec son mémoire de master, juste après l'avoir brillament défendu.](images/diplome.jpg)
+![Le protagoniste principal de cette aventure avec son mémoire de master, juste après l'avoir brillamment défendu.](images/diplome.jpg)
 
 Le diplôme de master se concrétise par la rédaction d'un mémoire, qui doit être le résultat d'un travail académique de recherche poussé, d'expériences, d'analyse, et d'une part de créativité et d'initiative personnelle. Ce travail doit théoriquement commencer dès la première année, mais c'était pour moi inenvisageable au regard de mon niveau de russe (et un peu de mon manque de motivation personnelle). Par contre, le travail sur le mémoire est crucial la seconde année, et l'emploi du temps du dernier semestre est consacré quasi-exclusivement à sa rédaction.
 
