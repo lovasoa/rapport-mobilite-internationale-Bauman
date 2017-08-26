@@ -1,3 +1,5 @@
+all: out/rapport.pdf out/rapport.odt
+
 out/rapport.odt: rapport.md
 	pandoc --verbose --toc -M toc-title="Table des matières" -M lang="fr-FR" --smart -o out/rapport.odt -f markdown -t odt rapport.md
 
